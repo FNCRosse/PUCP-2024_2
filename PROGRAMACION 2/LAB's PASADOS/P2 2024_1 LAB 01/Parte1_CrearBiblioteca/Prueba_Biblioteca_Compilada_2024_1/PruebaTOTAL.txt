@@ -1,0 +1,31 @@
+IIM5175        Diamantes y pedernales                  Jose Maria Arguedas                     0     30.23
+YDK7687        El otonio del patriarca                 Gabriel Garcia Marquez                  59    82.02
+ZOY6470        El viejo y el mar                       Hernest Hemingway                       25    68.01
+
+
+54393647  Reyes Tang Edward 
+Libros Entregados:
+      Pedido No.        Codigo      Precio
+        1                 YDK7687     82.02
+Total a pagar:82.02
+Libros NO Entregados por falta de stock:
+      Pedido No.        Codigo      
+        1                 IIM5175     
+
+
+67066631  Arca Amezquita Edric Ronald
+Libros Entregados:
+      Pedido No.        Codigo      Precio
+Total a pagar:0
+Libros NO Entregados por falta de stock:
+      Pedido No.        Codigo      
+
+
+32231860  Cerna Hijar Jose Rolando
+Libros Entregados:
+      Pedido No.        Codigo      Precio
+Total a pagar:0
+Libros NO Entregados por falta de stock:
+      Pedido No.        Codigo      
+
+
