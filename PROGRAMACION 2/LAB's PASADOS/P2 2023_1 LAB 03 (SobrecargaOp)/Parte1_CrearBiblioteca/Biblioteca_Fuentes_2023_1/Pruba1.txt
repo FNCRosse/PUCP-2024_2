@@ -1,0 +1,48 @@
+CODIGO         NOMBRE                                            CREDITOS
+INF263         Algoritmia                                        3.75
+PROFESOR:   INGA_FLORES_CESAR_ADOLFO
+Alumnos matriculados:
+Semestre    Codigo
+  20231      8320
+Numero de alumnos:1
+Total ingresado: 0
+
+CODIGO         NOMBRE                                            CREDITOS
+MEC270         Procesos_De_Manufactura                           4
+PROFESOR:   PAIRAZAMAN_ALAMO_MOISES_MIGUEL
+Alumnos matriculados:
+Semestre    Codigo
+Numero de alumnos:0
+Total ingresado: 0
+
+CODIGO         NOMBRE                                            CREDITOS
+MEC289         Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo4.25
+PROFESOR:   DELGADO_GONZALES_GUILLERMO_ALFONSO
+Alumnos matriculados:
+Semestre    Codigo
+  20231      2000
+Numero de alumnos:1
+Total ingresado: 0
+
+
+
+SEMESTRE       CODIGO      NOMBRE                                       MODALIDAD                     ESCALA
+20231          8320        GORDILLO/CASTRO/RONAL                        Presencial                      2
+Codigo de cursos matriculados:
+         INF263
+Numero de cursos: 1
+Costo Total: 0
+
+SEMESTRE       CODIGO      NOMBRE                                       MODALIDAD                     ESCALA
+20231          2000        ZEVALLOS/PRADO/RICARDO                       Semi-Presencial   Con 50%       2
+Codigo de cursos matriculados:
+         MEC289
+Numero de cursos: 1
+Costo Total: 0
+
+SEMESTRE       CODIGO      NOMBRE                                       MODALIDAD                     ESCALA
+20212          7344        DEL_POZO/QUIO/CESAR                          Virtual                         3
+Codigo de cursos matriculados:
+Numero de cursos: 0
+Costo Total: 0
+
