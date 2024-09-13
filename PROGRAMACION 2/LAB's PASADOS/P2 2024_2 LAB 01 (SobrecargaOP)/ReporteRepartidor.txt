@@ -1,0 +1,330 @@
+JNV387    Justino Norabuena Virginia Karina                           Motocicleta               49.9
+Ordenes Entregadas:
+    22598563    9.31    49.9    14.8
+    Platos Solicitados:
+    - BE-265          49.9         1      49.9
+
+PRT150    Pairazaman Raffo Tatiana Delicia                            Bicicleta                216.3
+Ordenes Entregadas:
+    85395219   11.33   152.7    14.8
+    Platos Solicitados:
+    - BR-665          50.9         3     152.7
+    68114999    7.35    15.9    10.5
+    Platos Solicitados:
+    - AD-518          15.9         1      15.9
+    77440060   25.76    47.7    31.7
+    Platos Solicitados:
+    - AD-518          15.9         3      47.7
+
+SYI157    Sam Yallico Ines                                            Motocicleta               47.7
+Ordenes Entregadas:
+    49357767   11.93    47.7    14.8
+    Platos Solicitados:
+    - AD-518          15.9         3      47.7
+
+SMC480    Sakaguchi Mori Carlos Ronal                                 Motocicleta                  0
+Ordenes Entregadas:
+
+SRY667    Sinche Rivero Yvonne Silvana                                Bicicleta                132.6
+Ordenes Entregadas:
+    80694546    1.01      31    10.5
+    Platos Solicitados:
+    - BE-987          15.5         2        31
+    57182371   11.69    47.7    14.8
+    Platos Solicitados:
+    - PO-611          15.9         3      47.7
+    72973662    2.76    53.9    10.5
+    Platos Solicitados:
+    - PA-850          53.9         1      53.9
+
+ACA305    Asmad Chavez Adria                                          Bicicleta                 31.5
+Ordenes Entregadas:
+    75100362    0.71    31.5    10.5
+    Platos Solicitados:
+    - BE-199          10.5         3      31.5
+
+BCJ176    Bravo Cortes Janet Flor                                     Bicicleta                260.1
+Ordenes Entregadas:
+    17299012   11.33    51.9    14.8
+    Platos Solicitados:
+    - BR-479          51.9         1      51.9
+    31284904    0.79    65.7    10.5
+    Platos Solicitados:
+    - BE-141          21.9         3      65.7
+    61061535    0.71    67.8    10.5
+    Platos Solicitados:
+    - BR-592          33.9         2      67.8
+    51465986    1.01    74.7    10.5
+    Platos Solicitados:
+    - SA-330          24.9         3      74.7
+
+ERI639    Escalante Rojas Ines Adria                                  Bicicleta                269.4
+Ordenes Entregadas:
+    91187814   25.76    47.7    31.7
+    Platos Solicitados:
+    - P0-621          15.9         3      47.7
+    81539774    0.83   221.7    10.5
+    Platos Solicitados:
+    - BE-955          73.9         3     221.7
+
+LIH676    Lozada Iberos Heli Blanca                                   Bicicleta                 99.2
+Ordenes Entregadas:
+    28992638    1.49    47.5    10.5
+    Platos Solicitados:
+    - BR-197          47.5         1      47.5
+    94683380    2.76    31.9    10.5
+    Platos Solicitados:
+    - EN-419          31.9         1      31.9
+    45914393       3    19.8    10.5
+    Platos Solicitados:
+    - AD-814           9.9         2      19.8
+
+VSH648    Vega Soria Henrry                                           Motocicleta              122.9
+Ordenes Entregadas:
+    93231760   13.12    27.9    23.6
+    Platos Solicitados:
+    - PI-608          27.9         1      27.9
+    93961840    7.39      95    10.5
+    Platos Solicitados:
+    - BR-197          47.5         2        95
+
+SCR377    Solis Chung Rolando                                         Bicicleta                229.2
+Ordenes Entregadas:
+    59199342    0.71    95.7    10.5
+    Platos Solicitados:
+    - EN-419          31.9         3      95.7
+    72937662    0.79    51.8    10.5
+    Platos Solicitados:
+    - EN-758          25.9         2      51.8
+    27709566   27.21    74.7    31.7
+    Platos Solicitados:
+    - EN-487          24.9         3      74.7
+    35852072   27.21       7    31.7
+    Platos Solicitados:
+    - BE-864             7         1         7
+
+EBD360    Egusquiza Berrocal Doris Nancy                              Motocicleta              106.2
+Ordenes Entregadas:
+    32538825    0.71    52.9    10.5
+    Platos Solicitados:
+    - BR-142          52.9         1      52.9
+    86988155   25.76    33.5    31.7
+    Platos Solicitados:
+    - BR-621          33.5         1      33.5
+    59561864     7.3    19.8    10.5
+    Platos Solicitados:
+    - AD-814           9.9         2      19.8
+
+VMM254    Valverde Maeireizo Melvin Jair                              Bicicleta                262.6
+Ordenes Entregadas:
+    60543714       3    46.9    10.5
+    Platos Solicitados:
+    - BR-611          46.9         1      46.9
+    77324146    0.79   215.7    10.5
+    Platos Solicitados:
+    - BE-475          71.9         3     215.7
+
+FCA273    Florencio Coronado Alonso                                   Motocicleta              365.2
+Ordenes Entregadas:
+    34697743     7.3   257.8    10.5
+    Platos Solicitados:
+    - PA-500         128.9         2     257.8
+    95656771     7.2   103.5    10.5
+    Platos Solicitados:
+    - BR-760          34.5         3     103.5
+    99774549       3     3.9    10.5
+    Platos Solicitados:
+    - AD-377           3.9         1       3.9
+
+TJL725    Trigueros Jugo Luz                                          Bicicleta                    0
+Ordenes Entregadas:
+
+LAF361    Lozada Arguedas Felicita Valentina                          Motocicleta              117.1
+Ordenes Entregadas:
+    51642949   11.93    65.8    14.8
+    Platos Solicitados:
+    - EN-690          32.9         2      65.8
+    12484697    6.92    19.8    10.5
+    Platos Solicitados:
+    - AD-546           9.9         2      19.8
+    90367684    7.39    31.5    10.5
+    Platos Solicitados:
+    - BE-199          10.5         3      31.5
+
+RAK361    Ramirez Astete Karina Estefania                             Bicicleta                336.3
+Ordenes Entregadas:
+    34571095    1.33   119.8    10.5
+    Platos Solicitados:
+    - BR-272          59.9         2     119.8
+    22679759   13.12   152.7    23.6
+    Platos Solicitados:
+    - BR-665          50.9         3     152.7
+    25062013   11.33    63.8    14.8
+    Platos Solicitados:
+    - ES-796          31.9         2      63.8
+
+VSM267    Vizcardo Sinche Maribel                                     Motocicleta               71.9
+Ordenes Entregadas:
+    99891737    6.92    71.9    10.5
+    Platos Solicitados:
+    - BE-475          71.9         1      71.9
+
+PVJ527    Prado Vera Juan                                             Motocicleta               58.5
+Ordenes Entregadas:
+    93939698   12.47    37.8    23.6
+    Platos Solicitados:
+    - EN-549          18.9         2      37.8
+    93282118    1.49    20.7    10.5
+    Platos Solicitados:
+    - AD-764           6.9         3      20.7
+
+MAF774    Moscoso Arias Fiorella                                      Bicicleta                 58.4
+Ordenes Entregadas:
+    30246960    0.79    33.5    10.5
+    Platos Solicitados:
+    - BR-283          33.5         1      33.5
+    72330000   11.93    24.9    14.8
+    Platos Solicitados:
+    - SA-330          24.9         1      24.9
+
+CCJ708    Contreras Chang Johana Cinthia                              Motocicleta               68.7
+Ordenes Entregadas:
+    51873364   15.78    68.7    23.6
+    Platos Solicitados:
+    - EN-910          22.9         3      68.7
+
+JDC639    Jauregui Del Castillo Victor Ricardo                        Motocicleta                  0
+Ordenes Entregadas:
+
+PBD627    Patino Bolanos Delicia Virginia                             Motocicleta                  0
+Ordenes Entregadas:
+
+MCE193    Mercado Coronel Elia                                        Motocicleta              107.4
+Ordenes Entregadas:
+    15290194   11.69    33.5    14.8
+    Platos Solicitados:
+    - BR-283          33.5         1      33.5
+    68269451    1.01    73.9    10.5
+    Platos Solicitados:
+    - BE-955          73.9         1      73.9
+
+ATN985    Arroyo Tomasiche Natalia                                    Motocicleta              125.6
+Ordenes Entregadas:
+    45201670   25.76    65.7    31.7
+    Platos Solicitados:
+    - PI-539          21.9         3      65.7
+    86836066    9.31    59.9    14.8
+    Platos Solicitados:
+    - BR-272          59.9         1      59.9
+
+NCJ980    Narvaez Castillo Jesus Rafael                               Motocicleta              165.6
+Ordenes Entregadas:
+    20371464   11.33   110.7    14.8
+    Platos Solicitados:
+    - BR-823          36.9         3     110.7
+    54149342    6.92    33.9    10.5
+    Platos Solicitados:
+    - ES-644          33.9         1      33.9
+    59596317   15.78      21    23.6
+    Platos Solicitados:
+    - BE-199          10.5         2        21
+
+CPY191    Camacho Pairazaman Ydali Lucero                             Motocicleta              193.5
+Ordenes Entregadas:
+    43704548    0.83    43.8    10.5
+    Platos Solicitados:
+    - PI-539          21.9         2      43.8
+    65912822    1.33   149.7    10.5
+    Platos Solicitados:
+    - BE-265          49.9         3     149.7
+
+LFD120    Lozada Forzani Delia                                        Motocicleta                253
+Ordenes Entregadas:
+    35347567   15.46    46.5    23.6
+    Platos Solicitados:
+    - BE-536          15.5         3      46.5
+    62126128   25.76   158.7    31.7
+    Platos Solicitados:
+    - BR-142          52.9         3     158.7
+    79133967    0.83    47.8    10.5
+    Platos Solicitados:
+    - EN-493          23.9         2      47.8
+
+RMB124    Rodriguez Moreno Blanca Ofelia                              Bicicleta                 88.5
+Ordenes Entregadas:
+    37282858    6.68    11.7    10.5
+    Platos Solicitados:
+    - AD-991           3.9         3      11.7
+    66039166   15.78    71.9    23.6
+    Platos Solicitados:
+    - BE-810          71.9         1      71.9
+    35606314    8.45     4.9    14.8
+    Platos Solicitados:
+    - AD-939           4.9         1       4.9
+
+ZPA452    Zarate Perez Alexander                                      Bicicleta                 85.7
+Ordenes Entregadas:
+    53420926   12.47    33.9    23.6
+    Platos Solicitados:
+    - BR-592          33.9         1      33.9
+    14956687    9.06    51.8    14.8
+    Platos Solicitados:
+    - EN-758          25.9         2      51.8
+
+DTE915    Diaz Tang Enrique                                           Bicicleta                 66.3
+Ordenes Entregadas:
+    36471787    0.71    34.5    10.5
+    Platos Solicitados:
+    - BR-760          34.5         1      34.5
+    66091742    7.35    31.8    10.5
+    Platos Solicitados:
+    - AD-518          15.9         2      31.8
+
+PSG279    Pena Suarez Glenda Margot                                   Motocicleta              206.4
+Ordenes Entregadas:
+    62287143    0.71    53.7    10.5
+    Platos Solicitados:
+    - PI-404          17.9         3      53.7
+    41964357   15.78   152.7    23.6
+    Platos Solicitados:
+    - BR-756          50.9         3     152.7
+
+SNM868    Solis Narvaez Maria Madeleine                               Bicicleta                663.1
+Ordenes Entregadas:
+    92275859   12.47    13.8    23.6
+    Platos Solicitados:
+    - AD-760           6.9         2      13.8
+    81647285   11.33    50.9    14.8
+    Platos Solicitados:
+    - BR-756          50.9         1      50.9
+    52313890    0.79      59    10.5
+    Platos Solicitados:
+    - BR-921          29.5         2        59
+    63640178    0.83   386.7    10.5
+    Platos Solicitados:
+    - PA-500         128.9         3     386.7
+    58643376     7.2   152.7    10.5
+    Platos Solicitados:
+    - BR-756          50.9         3     152.7
+
+HLM152    Hijar Lam Martin                                            Motocicleta              170.5
+Ordenes Entregadas:
+    54815159    0.71      14    10.5
+    Platos Solicitados:
+    - BE-747             7         2        14
+    71422479   11.69    45.8    14.8
+    Platos Solicitados:
+    - EN-214          22.9         2      45.8
+    36934113   13.12   110.7    23.6
+    Platos Solicitados:
+    - BR-326          36.9         3     110.7
+
+LVW759    Luna Vargas Waldemar                                        Motocicleta               27.6
+Ordenes Entregadas:
+    79100967   11.93    13.8    14.8
+    Platos Solicitados:
+    - AD-764           6.9         2      13.8
+    13731806   15.78    13.8    23.6
+    Platos Solicitados:
+    - AD-764           6.9         2      13.8
+
