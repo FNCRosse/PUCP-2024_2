@@ -1,0 +1,89 @@
+Si hay Espacio
+Estante: 1
+Capacidad: 20        Disponible: 3.6
+==================================================
+Titulo: Diamantes y pedernales
+Peso: 0.7
+Autor: Jose Maria Arguedas
+
+Titulo: ENCICLOPEDIA SALVAT
+Peso: 12
+SKU: 78323     Ano: 2015
+
+Titulo: El otonio del patriarca
+Peso: 1.5
+Autor: Gabriel Garcia Marquez
+
+Titulo: El viejo y el mar
+Peso: 0.4
+Autor: Hernest Hemingway
+
+Titulo: Confesiones de una mascara
+Peso: 0.8
+Autor: Yukio Mishima
+
+Titulo: Educacion
+Peso: 0.2
+SKU: 10199403  Ano: 2024
+
+Titulo: Educacion
+Peso: 0.2
+SKU: 10199403  Ano: 2023
+
+Titulo: Educacion
+Peso: 0.2
+SKU: 10199403  Ano: 2023
+
+Titulo: Educacion
+Peso: 0.2
+SKU: 10199403  Ano: 2023
+
+Titulo: Educacion
+Peso: 0.2
+SKU: 10199403  Ano: 2022
+
+
+Estante: 3
+Capacidad: 15        Disponible: 8.15
+==================================================
+Titulo: Historica
+Peso: 0.5
+SKU: 2223375   Ano: 2022
+
+Titulo: Historica
+Peso: 0.5
+SKU: 2223375   Ano: 2022
+
+Titulo: Historica
+Peso: 0.5
+SKU: 2223375   Ano: 2022
+
+Titulo: Historica
+Peso: 0.5
+SKU: 2223375   Ano: 2019
+
+Titulo: LA ENCICLOPEDIA DE LOS DINOSAURIOS
+Peso: 2
+SKU: 36225     Ano: 2018
+
+Titulo: La chica del tren
+Peso: 0.7
+Autor: Paula Hawkins
+
+Titulo: Espania con honra
+Peso: 0.7
+Autor: Daniel Aquillue
+
+Titulo: Los pilares de la tierra
+Peso: 0.3
+Autor: Ken Follett
+
+Titulo: Apocalipticos e integrados
+Peso: 0.4
+Autor: Umberto Eco
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+SKU: 10292004  Ano: 2023
+
+

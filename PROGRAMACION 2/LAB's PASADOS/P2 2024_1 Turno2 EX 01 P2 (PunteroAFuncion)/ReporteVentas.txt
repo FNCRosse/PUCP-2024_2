@@ -1,0 +1,805 @@
+Codigo del Libro:IIM5175   
+Nombre del Libro:Diamantes y pedernales                            
+Autor:Jose Maria Arguedas                               
+Vendidos:2
+DNI de Compradores:
+46582367  69200503  
+Suma:64        Promedio:32.00     Ranking:2         
+
+Codigo del Libro:YDK7687   
+Nombre del Libro:El otonio del patriarca                           
+Autor:Gabriel Garcia Marquez                            
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:ZOY6470   
+Nombre del Libro:El viejo y el mar                                 
+Autor:Hernest Hemingway                                 
+Vendidos:2
+DNI de Compradores:
+87804471  42302422  
+Suma:107       Promedio:53.00     Ranking:2         
+
+Codigo del Libro:ETZ8565   
+Nombre del Libro:Confesiones de una mascara                        
+Autor:Yukio Mishima                                     
+Vendidos:1
+DNI de Compradores:
+14268463  
+Suma:33        Promedio:33.00     Ranking:2         
+
+Codigo del Libro:LQL0880   
+Nombre del Libro:Contra el fascismo                                
+Autor:Umberto Eco                                       
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:VFZ9435   
+Nombre del Libro:El olor de la Edad Media                          
+Autor:Javier Traite                                     
+Vendidos:5
+DNI de Compradores:
+45834351  48053960  49516360  51235238  21344013  
+Suma:299       Promedio:59.00     Ranking:2         
+
+Codigo del Libro:SFZ1256   
+Nombre del Libro:La Iliada                                         
+Autor:Homero                                            
+Vendidos:2
+DNI de Compradores:
+45181396  85870289  
+Suma:48        Promedio:24.00     Ranking:1         
+
+Codigo del Libro:EDQ0577   
+Nombre del Libro:Las aventuras de Pinocho                          
+Autor:Carlo Collodi                                     
+Vendidos:1
+DNI de Compradores:
+65830353  
+Suma:91        Promedio:91.00     Ranking:3         
+
+Codigo del Libro:YJI3961   
+Nombre del Libro:Cien anios de soledad                             
+Autor:Gabriel Garcia Marquez                            
+Vendidos:2
+DNI de Compradores:
+47659552  37328103  
+Suma:122       Promedio:61.00     Ranking:2         
+
+Codigo del Libro:VPN5351   
+Nombre del Libro:El Amante                                         
+Autor:Ana Maria Moix                                    
+Vendidos:1
+DNI de Compradores:
+87804471  
+Suma:67        Promedio:67.00     Ranking:2         
+
+Codigo del Libro:PVS2464   
+Nombre del Libro:Sapiens                                           
+Autor:Yuval Noah Harari                                 
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:DVL7760   
+Nombre del Libro:Falco                                             
+Autor:Arturo Perez-Reverte                              
+Vendidos:2
+DNI de Compradores:
+69200503  57431952  
+Suma:101       Promedio:50.00     Ranking:2         
+
+Codigo del Libro:QRH6838   
+Nombre del Libro:Las cronicas de Narnia                            
+Autor:C. S. Lewis                                       
+Vendidos:3
+DNI de Compradores:
+81082011  65071478  47659552  
+Suma:50        Promedio:16.00     Ranking:1         
+
+Codigo del Libro:LDL2628   
+Nombre del Libro:Harry Potter y el caliz de fuego (Harry Potter 4) 
+Autor:J.K. Rowling                                      
+Vendidos:1
+DNI de Compradores:
+14500753  
+Suma:90        Promedio:90.00     Ranking:3         
+
+Codigo del Libro:SBU9053   
+Nombre del Libro:Tierra arrasada                                   
+Autor:Alfredo Gonzalez Ruibal                           
+Vendidos:1
+DNI de Compradores:
+36699613  
+Suma:2         Promedio:2.00      Ranking:1         
+
+Codigo del Libro:ZJM1292   
+Nombre del Libro:El suenio del celta                               
+Autor:Mario Vargas Llosa                                
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:CRA4157   
+Nombre del Libro:El forastero misterioso                           
+Autor:Mark Twain                                        
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:RII8346   
+Nombre del Libro:Las dos Dianas                                    
+Autor:Alejandro Dumas                                   
+Vendidos:1
+DNI de Compradores:
+66747161  
+Suma:92        Promedio:92.00     Ranking:3         
+
+Codigo del Libro:JBR9372   
+Nombre del Libro:El maestro de esgrima                             
+Autor:Arturo Perez-Reverte                              
+Vendidos:2
+DNI de Compradores:
+37751890  33583840  
+Suma:46        Promedio:23.00     Ranking:1         
+
+Codigo del Libro:NEO9165   
+Nombre del Libro:Emperador de Roma                                 
+Autor:Mary Beard                                        
+Vendidos:1
+DNI de Compradores:
+88080249  
+Suma:92        Promedio:92.00     Ranking:3         
+
+Codigo del Libro:TBZ2657   
+Nombre del Libro:Olalla                                            
+Autor:Robert Louis Stevenson                            
+Vendidos:2
+DNI de Compradores:
+81462164  57431952  
+Suma:104       Promedio:52.00     Ranking:2         
+
+Codigo del Libro:IBP7411   
+Nombre del Libro:Nunca                                             
+Autor:Ken Follett                                       
+Vendidos:1
+DNI de Compradores:
+54393647  
+Suma:61        Promedio:61.00     Ranking:2         
+
+Codigo del Libro:GPH1575   
+Nombre del Libro:La gran aventura de los griegos                   
+Autor:Javier Negrete                                    
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:XIU2628   
+Nombre del Libro:Cabo Trafalgar                                    
+Autor:Arturo Perez-Reverte                              
+Vendidos:3
+DNI de Compradores:
+86898639  65830353  17750908  
+Suma:86        Promedio:28.00     Ranking:1         
+
+Codigo del Libro:DDT0017   
+Nombre del Libro:Viaje al fin de la noche                          
+Autor:Louis Ferdinand Celine                            
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:ILG7766   
+Nombre del Libro:Iliada                                            
+Autor:Homero                                            
+Vendidos:1
+DNI de Compradores:
+69200503  
+Suma:70        Promedio:70.00     Ranking:3         
+
+Codigo del Libro:HGQ0131   
+Nombre del Libro:Odisea                                            
+Autor:Homero                                            
+Vendidos:1
+DNI de Compradores:
+37751890  
+Suma:28        Promedio:28.00     Ranking:1         
+
+Codigo del Libro:HLB4548   
+Nombre del Libro:Frankenstein o el moderno Prometeo                
+Autor:Mary W. Shelley                                   
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:SQB7146   
+Nombre del Libro:Cronica de una muerte anunciada                   
+Autor:Gabriel Garcia Marquez                            
+Vendidos:3
+DNI de Compradores:
+72832218  88080249  48053960  
+Suma:206       Promedio:68.00     Ranking:2         
+
+Codigo del Libro:VHK9148   
+Nombre del Libro:Historia y cronologia del mundo                   
+Autor:Isaac Asimov                                      
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:MVU0233   
+Nombre del Libro:La conspiracioni                                  
+Autor:Dan Brown                                         
+Vendidos:1
+DNI de Compradores:
+11750801  
+Suma:5         Promedio:5.00      Ranking:1         
+
+Codigo del Libro:KWL0415   
+Nombre del Libro:1923                                              
+Autor:Roberto Villa Garcia                              
+Vendidos:4
+DNI de Compradores:
+37751890  92240876  72832218  45002711  
+Suma:197       Promedio:49.00     Ranking:2         
+
+Codigo del Libro:WPU8819   
+Nombre del Libro:Tristam Shandy                                    
+Autor:Laurence Sterne                                   
+Vendidos:4
+DNI de Compradores:
+42302422  33583840  65071478  37751890  
+Suma:80        Promedio:20.00     Ranking:1         
+
+Codigo del Libro:JTX5687   
+Nombre del Libro:Veinte mil leguas de viaje submarino              
+Autor:Julio Verne                                       
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:HCT8192   
+Nombre del Libro:Diario                                            
+Autor:Ana FranK                                         
+Vendidos:1
+DNI de Compradores:
+11750801  
+Suma:10        Promedio:10.00     Ranking:1         
+
+Codigo del Libro:OMN0252   
+Nombre del Libro:Los hermanos Karamazov                            
+Autor:Fiodor Dostoyevski                                
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:CKC4095   
+Nombre del Libro:El Gran Gatsby                                    
+Autor:F. Scott Fitzgerald                               
+Vendidos:4
+DNI de Compradores:
+34460612  38724322  17750908  37751890  
+Suma:132       Promedio:33.00     Ranking:2         
+
+Codigo del Libro:JLQ6546   
+Nombre del Libro:El retorno del Rey                                
+Autor:J.R.R.Tolkien                                     
+Vendidos:3
+DNI de Compradores:
+14500753  14500753  14268463  
+Suma:103       Promedio:34.00     Ranking:2         
+
+Codigo del Libro:MSW8176   
+Nombre del Libro:Todo se desmorona                                 
+Autor:Chinua Achebe                                     
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:TDY0497   
+Nombre del Libro:La chica del tren                                 
+Autor:Paula Hawkins                                     
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:NBL8415   
+Nombre del Libro:Espania con honra                                 
+Autor:Daniel Aquillue                                   
+Vendidos:3
+DNI de Compradores:
+49516360  47659552  37751890  
+Suma:124       Promedio:41.00     Ranking:2         
+
+Codigo del Libro:IMC3155   
+Nombre del Libro:Los pilares de la tierra                          
+Autor:Ken Follett                                       
+Vendidos:1
+DNI de Compradores:
+21344013  
+Suma:87        Promedio:87.00     Ranking:3         
+
+Codigo del Libro:FWK6327   
+Nombre del Libro:El doble                                          
+Autor:Fiodor Dostoyevski                                
+Vendidos:1
+DNI de Compradores:
+85870289  
+Suma:7         Promedio:7.00      Ranking:1         
+
+Codigo del Libro:GQC1814   
+Nombre del Libro:Apocalipticos e integrados                        
+Autor:Umberto Eco                                       
+Vendidos:1
+DNI de Compradores:
+11750801  
+Suma:32        Promedio:32.00     Ranking:2         
+
+Codigo del Libro:PRD1648   
+Nombre del Libro:Relato de un naufrago                             
+Autor:Gabriel Garcia Marquez                            
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:SBF7018   
+Nombre del Libro:El handicap de la vida                            
+Autor:Rudyard Kipling                                   
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:LVP3355   
+Nombre del Libro:Las aventuras de Sherlock Holmes                  
+Autor:Arthur Conan Doyle                                
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:FBO8724   
+Nombre del Libro:El pendulo de Foucault                            
+Autor:Umberto Eco                                       
+Vendidos:1
+DNI de Compradores:
+58717040  
+Suma:52        Promedio:52.00     Ranking:2         
+
+Codigo del Libro:WCZ0845   
+Nombre del Libro:El cementerio de Praga                            
+Autor:Umberto Eco                                       
+Vendidos:2
+DNI de Compradores:
+38724322  49516360  
+Suma:85        Promedio:42.00     Ranking:2         
+
+Codigo del Libro:WOF6634   
+Nombre del Libro:El problema final                                 
+Autor:Arturo Perez-Reverte                              
+Vendidos:2
+DNI de Compradores:
+15129661  65071478  
+Suma:33        Promedio:16.00     Ranking:1         
+
+Codigo del Libro:CUV7849   
+Nombre del Libro:Ficciones                                         
+Autor:Jorge Luis Borges                                 
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:VMW6915   
+Nombre del Libro:Travesuras de la ninia mala                       
+Autor:Mario Vargas Llosa                                
+Vendidos:4
+DNI de Compradores:
+92240876  14268463  72832218  37751890  
+Suma:263       Promedio:65.00     Ranking:2         
+
+Codigo del Libro:MBQ9495   
+Nombre del Libro:Tormenta de espadas                               
+Autor:George R.R.Martin                                 
+Vendidos:3
+DNI de Compradores:
+37328103  46582367  57431952  
+Suma:95        Promedio:31.00     Ranking:2         
+
+Codigo del Libro:LQA8555   
+Nombre del Libro:Rimas y leyendas                                  
+Autor:Gustavo Adolfo Becquer                            
+Vendidos:1
+DNI de Compradores:
+49516360  
+Suma:22        Promedio:22.00     Ranking:1         
+
+Codigo del Libro:IMK4892   
+Nombre del Libro:La tabla de Flandes                               
+Autor:Arturo Perez-Reverte                              
+Vendidos:3
+DNI de Compradores:
+37751890  72832218  21344013  
+Suma:183       Promedio:61.00     Ranking:2         
+
+Codigo del Libro:QCA9584   
+Nombre del Libro:Dr. Jekyll y Mr. Hyde                             
+Autor:Robert Louis Stevenson                            
+Vendidos:2
+DNI de Compradores:
+92240876  15129661  
+Suma:149       Promedio:74.00     Ranking:3         
+
+Codigo del Libro:XJT3661   
+Nombre del Libro:Las aventuras de Tom Sawye                        
+Autor:Mark Twain                                        
+Vendidos:1
+DNI de Compradores:
+17750908  
+Suma:91        Promedio:91.00     Ranking:3         
+
+Codigo del Libro:THT4126   
+Nombre del Libro:Harry Potter y las reliquias de la muerte (Harry Potter 7)
+Autor:J. K. Rowling                                     
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:PZP7176   
+Nombre del Libro:La caida de los gigantes                          
+Autor:Ken Follett                                       
+Vendidos:2
+DNI de Compradores:
+83265244  88080249  
+Suma:99        Promedio:49.00     Ranking:2         
+
+Codigo del Libro:UQL8643   
+Nombre del Libro:Dracula                                           
+Autor:Bram Stoker                                       
+Vendidos:1
+DNI de Compradores:
+81082011  
+Suma:17        Promedio:17.00     Ranking:1         
+
+Codigo del Libro:RLQ7170   
+Nombre del Libro:El tango de la guardia vieja                      
+Autor:Arturo Perez-Reverte                              
+Vendidos:2
+DNI de Compradores:
+37751890  33583840  
+Suma:171       Promedio:85.00     Ranking:3         
+
+Codigo del Libro:KTA8754   
+Nombre del Libro:Ulises                                            
+Autor:James Joyce                                       
+Vendidos:2
+DNI de Compradores:
+42302422  37328103  
+Suma:75        Promedio:37.00     Ranking:2         
+
+Codigo del Libro:TOJ1764   
+Nombre del Libro:Ensayo sobre la ceguera                           
+Autor:Jose Saramago                                     
+Vendidos:2
+DNI de Compradores:
+65830353  81462164  
+Suma:98        Promedio:49.00     Ranking:2         
+
+Codigo del Libro:GWE4133   
+Nombre del Libro:El gato negro y otros cuentos                     
+Autor:Edgar Allan Poe                                   
+Vendidos:1
+DNI de Compradores:
+65830353  
+Suma:5         Promedio:5.00      Ranking:1         
+
+Codigo del Libro:ZPD6557   
+Nombre del Libro:El ruido y la furia                               
+Autor:William Faulkner                                  
+Vendidos:1
+DNI de Compradores:
+87804471  
+Suma:43        Promedio:43.00     Ranking:2         
+
+Codigo del Libro:IUG2294   
+Nombre del Libro:El proceso                                        
+Autor:Franz Kafka                                       
+Vendidos:2
+DNI de Compradores:
+17750908  69200503  
+Suma:63        Promedio:31.00     Ranking:2         
+
+Codigo del Libro:WGA2754   
+Nombre del Libro:El club Dumas                                     
+Autor:Arturo Perez-Reverte                              
+Vendidos:1
+DNI de Compradores:
+37751890  
+Suma:1         Promedio:1.00      Ranking:1         
+
+Codigo del Libro:YJE2497   
+Nombre del Libro:Progreso del peregrino                            
+Autor:John Bunyan                                       
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:XCC4070   
+Nombre del Libro:El italiano                                       
+Autor:Arturo Perez-Reverte                              
+Vendidos:2
+DNI de Compradores:
+34460612  45181396  
+Suma:51        Promedio:25.00     Ranking:1         
+
+Codigo del Libro:OBD2849   
+Nombre del Libro:El invierno del mundo                             
+Autor:Ken Follett                                       
+Vendidos:1
+DNI de Compradores:
+27109544  
+Suma:58        Promedio:58.00     Ranking:2         
+
+Codigo del Libro:UCJ9882   
+Nombre del Libro:El reino de este mundo                            
+Autor:Alejo Carpentier                                  
+Vendidos:2
+DNI de Compradores:
+54393647  45181396  
+Suma:99        Promedio:49.00     Ranking:2         
+
+Codigo del Libro:QVU3526   
+Nombre del Libro:Vidas intrepidas                                  
+Autor:Julio Albi de la Cuesta                           
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:VTY5195   
+Nombre del Libro:Un asunto de honor                                
+Autor:Arturo Perez-Reverte                              
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:FKK6524   
+Nombre del Libro:Los renglones torcidos de Dios                    
+Autor:Torcuato Luca de Tena                             
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:KPE7420   
+Nombre del Libro:Jane Eyre                                         
+Autor:Charlotte Brontë                                  
+Vendidos:1
+DNI de Compradores:
+63602514  
+Suma:8         Promedio:8.00      Ranking:1         
+
+Codigo del Libro:MWB2923   
+Nombre del Libro:Mudlarking                                        
+Autor:Lara Maiklem                                      
+Vendidos:1
+DNI de Compradores:
+65071478  
+Suma:60        Promedio:60.00     Ranking:2         
+
+Codigo del Libro:ISY5671   
+Nombre del Libro:Harry Potter y la piedra filosofal (Harry Potter 1)
+Autor:J. K. Rowling                                     
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:NBE1339   
+Nombre del Libro:Palmeras en la nieve                              
+Autor:Luz Gabas                                         
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:JHP0390   
+Nombre del Libro:El conde de Montecristo                           
+Autor:Alexandre Dumas                                   
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:OWU1533   
+Nombre del Libro:Cuatro principes                                  
+Autor:John Julius Norwich                               
+Vendidos:1
+DNI de Compradores:
+54393647  
+Suma:23        Promedio:23.00     Ranking:1         
+
+Codigo del Libro:SFR1226   
+Nombre del Libro:Ana la de las tejas verdes                        
+Autor:Lucy Maud Montgomery                              
+Vendidos:1
+DNI de Compradores:
+34460612  
+Suma:91        Promedio:91.00     Ranking:3         
+
+Codigo del Libro:HRT0664   
+Nombre del Libro:Los funerales de la Mama Grande                   
+Autor:Gabriel Garcia Marquez                            
+Vendidos:1
+DNI de Compradores:
+35030611  
+Suma:5         Promedio:5.00      Ranking:1         
+
+Codigo del Libro:HPP3360   
+Nombre del Libro:El pintor de batallas                             
+Autor:Arturo Perez-Reverte                              
+Vendidos:4
+DNI de Compradores:
+85870289  47659552  81082011  65830353  
+Suma:282       Promedio:70.00     Ranking:3         
+
+Codigo del Libro:DND9446   
+Nombre del Libro:Lo que el viento se llevo                         
+Autor:Margaret Mitchell                                 
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:LJD9991   
+Nombre del Libro:Baudolino                                         
+Autor:Umberto Eco                                       
+Vendidos:1
+DNI de Compradores:
+37328103  
+Suma:18        Promedio:18.00     Ranking:1         
+
+Codigo del Libro:XIU6076   
+Nombre del Libro:Rebelion en la granja                             
+Autor:George Orwell                                     
+Vendidos:2
+DNI de Compradores:
+47659552  33958767  
+Suma:43        Promedio:21.00     Ranking:1         
+
+Codigo del Libro:PWX7633   
+Nombre del Libro:La tia Julia y el escribidor                      
+Autor:Mario Vargas Llosa                                
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:UXZ2187   
+Nombre del Libro:Los 7 habitos de la gente altamente efectiva      
+Autor:Stephen R. Covey                                  
+Vendidos:3
+DNI de Compradores:
+21344013  69200503  51235238  
+Suma:169       Promedio:56.00     Ranking:2         
+
+Codigo del Libro:UEJ1235   
+Nombre del Libro:Grandes esperanzas                                
+Autor:Charles Dickens                                   
+Vendidos:2
+DNI de Compradores:
+69200503  86898639  
+Suma:147       Promedio:73.00     Ranking:3         
+
+Codigo del Libro:DDQ0721   
+Nombre del Libro:En busca del tiempo perdido                       
+Autor:Marcel Proust                                     
+Vendidos:2
+DNI de Compradores:
+32231860  17750908  
+Suma:120       Promedio:60.00     Ranking:2         
+
+Codigo del Libro:HWM4049   
+Nombre del Libro:Romper el circulo                                 
+Autor:Colleen Hoover                                    
+Vendidos:2
+DNI de Compradores:
+72832218  38724322  
+Suma:120       Promedio:60.00     Ranking:2         
+
+Codigo del Libro:EWI3090   
+Nombre del Libro:La seniora Dalloway                               
+Autor:Virginia Woolf                                    
+Vendidos:1
+DNI de Compradores:
+92240876  
+Suma:4         Promedio:4.00      Ranking:1         
+
+Codigo del Libro:JZC7527   
+Nombre del Libro:El tambor de hojalata                             
+Autor:Gunter Grass                                      
+Vendidos:3
+DNI de Compradores:
+67066631  20610190  33958767  
+Suma:193       Promedio:64.00     Ranking:2         
+
+Codigo del Libro:WYE2119   
+Nombre del Libro:El asedio                                         
+Autor:Arturo Perez-Reverte                              
+Vendidos:3
+DNI de Compradores:
+11750801  69200503  66747161  
+Suma:150       Promedio:50.00     Ranking:2         
+
+Codigo del Libro:YKQ9278   
+Nombre del Libro:Alicia en el pais de las maravillas               
+Autor:Lewis Carroll                                     
+Vendidos:1
+DNI de Compradores:
+49516360  
+Suma:84        Promedio:84.00     Ranking:3         
+
+Codigo del Libro:ZNF2241   
+Nombre del Libro:El extranio caso del Dr. Jekyll y Mr. Hyde        
+Autor:Robert Louis Stevenson                            
+Vendidos:0
+Suma:0         Promedio:0.00      Ranking:0         
+
+Codigo del Libro:CTW5846   
+Nombre del Libro:El medievo cristiano                              
+Autor:Mario Merlino                                     
+Vendidos:2
+DNI de Compradores:
+42302422  60740809  
+Suma:112       Promedio:56.00     Ranking:2         
+
+Codigo del Libro:FWP8469   
+Nombre del Libro:Justine o los infortunios                         
+Autor:Charles Dickens                                   
+Vendidos:1
+DNI de Compradores:
+37751890  
+Suma:56        Promedio:56.00     Ranking:2         
+
+Codigo del Libro:CRY6839   
+Nombre del Libro:Ricardo III                                       
+Autor:William Shakespeare                               
+Vendidos:5
+DNI de Compradores:
+34460612  33958767  37751890  11750801  81082011  
+Suma:240       Promedio:48.00     Ranking:2         
+
+Codigo del Libro:WMN3648   
+Nombre del Libro:Pasaje a la India                                 
+Autor:E. M. Forster                                     
+Vendidos:1
+DNI de Compradores:
+20449598  
+Suma:8         Promedio:8.00      Ranking:1         
+
+Codigo del Libro:QBL9575   
+Nombre del Libro:Los miserables                                    
+Autor:Victor Hugo                                       
+Vendidos:2
+DNI de Compradores:
+17750908  42302422  
+Suma:98        Promedio:49.00     Ranking:2         
+
+Codigo del Libro:VOI0019   
+Nombre del Libro:El evangelio según Jesucristo                     
+Autor:Jose Saramago                                     
+Vendidos:1
+DNI de Compradores:
+11750801  
+Suma:79        Promedio:79.00     Ranking:3         
+
+Codigo del Libro:TMR5068   
+Nombre del Libro:Los tres mosqueteros                              
+Autor:Alejandro Dumas                                   
+Vendidos:1
+DNI de Compradores:
+38724322  
+Suma:41        Promedio:41.00     Ranking:2         
+
+Codigo del Libro:RWW7975   
+Nombre del Libro:El nombre de la rosa                              
+Autor:Umberto Eco                                       
+Vendidos:4
+DNI de Compradores:
+65071478  33583840  32231860  42302422  
+Suma:183       Promedio:45.00     Ranking:2         
+
+Codigo del Libro:LJE6687   
+Nombre del Libro:El codigo Da Vinci                                
+Autor:Dan Brown                                         
+Vendidos:1
+DNI de Compradores:
+83265244  
+Suma:22        Promedio:22.00     Ranking:1         
+
+Codigo del Libro:PPI9259   
+Nombre del Libro:Revolucion                                        
+Autor:Arturo Perez-Reverte                              
+Vendidos:2
+DNI de Compradores:
+60740809  92240876  
+Suma:97        Promedio:48.00     Ranking:2         
+
+Codigo del Libro:ZYF6683   
+Nombre del Libro:Harry Potter y la Orden del Fenix ( Harry Potter 5)
+Autor:J. K. Rowling                                     
+Vendidos:2
+DNI de Compradores:
+17750908  38724322  
+Suma:111       Promedio:55.00     Ranking:2         
+
+Codigo del Libro:GKG6581   
+Nombre del Libro:Hombres buenos                                    
+Autor:Arturo Perez-Reverte                              
+Vendidos:1
+DNI de Compradores:

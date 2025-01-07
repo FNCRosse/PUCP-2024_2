@@ -58,11 +58,11 @@ LDLIBSOPTIONS=-L. -laperturadearchivosbibl
 
 # Build Targets
 .build-conf: ${BUILD_SUBPROJECTS}
-	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/2024_1_lab02.exe
+	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/p2_2024_1_lab_02__memoria_exacta_.exe
 
-${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/2024_1_lab02.exe: ${OBJECTFILES}
+${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/p2_2024_1_lab_02__memoria_exacta_.exe: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
-	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/2024_1_lab02 ${OBJECTFILES} ${LDLIBSOPTIONS}
+	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/p2_2024_1_lab_02__memoria_exacta_ ${OBJECTFILES} ${LDLIBSOPTIONS}
 
 ${OBJECTDIR}/FuncionesAux.o: FuncionesAux.cpp
 	${MKDIR} -p ${OBJECTDIR}

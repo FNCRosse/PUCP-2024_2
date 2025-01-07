@@ -1,0 +1,219 @@
+RESTAURANTE 1INF25
+VENTAS DEL DIA
+====================================================================================================
+RELACION DE PLATOS VENDIDOS
+----------------------------------------------------------------------------------------------------
+AP31796        ANTICUCHO DE CORAZON AL PLATO                     31.90   APERITIVO      19.94%        43          40           0        1371.70        1276.00        1021.57
+EN77156        ENSALADA COSIDA GRANDE                            22.90   ENSALADAS      13.52%        54          54           0        1236.60        1236.60        1069.41
+PO11171        TORTA DE CHOCOLATE                                15.90   POSTRES        19.42%        64          55           0        1017.60         874.50         704.67
+BR15823        1/4 POLLO BBQ/HOT ENCAMOTADO                      36.90   BRASA          19.42%        84          80          22        3099.60        2952.00        2378.72
+BE77381        ENSALADA HONEY GRANDE CON POLLO                   32.90   BEBIDAS        19.42%       102         100          31        3355.80        3290.00        2651.08
+EN77549        ENSALADA COSIDA REGULAR                           18.90   ENSALADAS      19.71%        74          71           0        1398.60        1341.90        1077.41
+EN53265        ANTICUCHO                                         12.90   ENTRADA        19.71%       150         150          58        1935.00        1935.00        1553.61
+EN55330        SANGUCHE PARRILLERO                               24.90   ENSALADAS       6.30%        65          64           0        1618.50        1593.60        1493.20
+PO11283        2 BOLAS DE HELADO                                 14.90   POSTRES        17.72%        27          22           0         402.30         327.80         269.71
+BE39864        INKA COLA 1/2 LITRO                               7.00    BEBIDAS        10.52%        48          44           0         336.00         308.00         275.60
+PO11611        TRES LECHES                                       15.90   POSTRES        15.19%        92          74           0        1462.80        1176.60         997.87
+BE77487        ENSALADA CESARS GRANDE SOLO                       24.90   BEBIDAS         9.72%        76          73          15        1892.40        1817.70        1641.02
+BR15479        1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO          51.90   BRASA           9.72%       110         106           0        5709.00        5501.40        4966.66
+AD31815        MOLLEJITAS AL PLATO                               30.90   ADICIONAL       9.72%        71          71          24        2193.90        2193.90        1980.65
+PI15608        PIQUEOS CHICHARRON DE POLLO                       27.90   PIQUEO          9.72%        80          67           0        2232.00        1869.30        1687.60
+AD39747        COCA COLA 1/2 LITRO                               7.00    ADICIONAL       9.03%        86          73           0         602.00         511.00         464.86
+PO31644        CHICHARRON DE POLLO AL PLATO                      33.90   POSTRES         9.03%        48          40           0        1627.20        1356.00        1233.55
+EN77419        ENSALADA DELICIA GRANDE CON POLLO                 31.90   ENSALADAS       9.03%        16           4           0         510.40         127.60         116.08
+BR15926        1/2 POLLO BBQ/HOT ARROCERO                        49.90   BRASA           5.90%        28          16           0        1397.20         798.40         751.29
+EN39695        SANGRIA                                           36.90   ENSALADAS      19.63%       119         119          45        4391.10        4391.10        3529.13
+BE73500        CHORIZOS COCKTAIL                                 12.90   BEBIDAS        19.63%        57          57          23         735.30         735.30         590.96
+AD90365        MOLLEGITAS A LA PARRILLA                          25.90   ADICIONAL      19.63%        27          22           0         699.30         569.80         457.95
+EN77703        ENSALADA SENSACION GRANDE SOLO                    24.90   ENSALADAS      19.63%        70          69          12        1743.00        1718.10        1380.84
+AP77690        ENSALADA CESARS GRANDE CON POLLO                  32.90   APERITIVO      19.63%       101          79           0        3322.90        2599.10        2088.90
+BR15510        1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO          35.90   BRASA          14.80%        18          18           1         646.20         646.20         550.56
+AD90766        ANTICUCHO DE CORAZON                              25.90   ADICIONAL      14.80%        79          67           0        2046.10        1735.30        1478.48
+BR15665        1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO          50.90   BRASA          18.94%       108          84           0        5497.20        4275.60        3465.80
+BE39896        FINA RESERVA TINTO                                128.90  BEBIDAS        18.94%        25           9           0        3222.50        1160.10         940.38
+BE77214        ENSALADA FRESCA GRANDE                            22.90   BEBIDAS        18.94%        57          57           1        1305.30        1305.30        1058.08
+PA53957        PAPAS FRITAS 1/2 PORCION                          10.90   PARRILLA       18.94%        30          23           0         327.00         250.70         203.22
+PO53760        ARROZ                                             6.90    POSTRES        10.76%        31          29           4         213.90         200.10         178.57
+PA53477        PAPAS DORADAS                                     15.90   PARRILLA       13.60%        40          36           0         636.00         572.40         494.55
+AD53939        TEQUENO                                           4.90    ADICIONAL      13.60%        35          33           6         171.50         161.70         139.71
+BR15142        1/2 POLLO BBQ/HOT A LO BRAVO                      52.90   BRASA           7.47%        72          63           0        3808.80        3332.70        3083.75
+PO11172        TORTA DE NARANJA                                  15.90   POSTRES         5.53%        34          31           8         540.60         492.90         465.64
+BR15136        1/2 POLLO BBQ/HOT ANTICUCHO                       60.50   BRASA           5.45%       132         128           0        7986.00        7744.00        7321.95
+BE39265        TABERNERO GRAN TINTO                              49.90   BEBIDAS         8.70%       125         125           7        6237.50        6237.50        5694.84
+AD15488        PIQUEOS CHORIZOS COCKTAIL                         16.90   ADICIONAL      16.67%        25          13           0         422.50         219.70         183.08
+EN11621        CHEESECAKE DE MARACUYA                            15.90   ENSALADAS      11.30%        28          20           0         445.20         318.00         282.07
+BR15297        1/2 POLLO BBQ/HOT ENCAMOTADO                      51.90   BRASA          11.30%        93          73           0        4826.70        3788.70        3360.58
+SA53764        PLATANO-HUEVO                                     6.90    SANGUCHE       10.57%        40          40           3         276.00         276.00         246.83
+PA39475        INTIPALKA SYRAH                                   71.90   PARRILLA       18.66%        55          55          11        3954.50        3954.50        3216.59
+EN77606        ENSALADA HONEY GRANDE SOLO                        24.90   ENSALADAS      19.98%        82          77          29        2041.80        1917.30        1534.22
+BE39137        CERVEZA PILSEN                                    12.00   BEBIDAS        19.98%        70          60           0         840.00         720.00         576.14
+BE39489        FANTA 1/2 LITRO                                   7.00    BEBIDAS        19.98%        33          32          13         231.00         224.00         179.24
+BR15921        1/4 POLLO PAPAS ENSALADA                          29.50   BRASA          16.09%        48          47           0        1416.00        1386.50        1163.41
+AD11751        MAZAMORRA MORADA                                  8.90    ADICIONAL      16.09%        73          73          22         649.70         649.70         545.16
+BE77572        ENSALADA FRESCA REGULAR                           18.90   BEBIDAS        16.09%        73          72          29        1379.70        1360.80        1141.85
+PI11692        PARRILLA PARA DOS                                 89.90   PIQUEO         17.36%        62          58           0        5573.80        5214.20        4309.01
+BR15365        1/4 POLLO BBQ/HOT ANTICUCHO                       44.90   BRASA           5.28%       107         105           0        4804.30        4714.50        4465.57
+BE53991        HUEVO                                             3.90    BEBIDAS         5.28%        47          42           0         183.30         163.80         155.15
+EN11620        CHEESECAKE DE FRESA                               15.90   ENSALADAS       5.28%        53          51           0         842.70         810.90         768.08
+EN77762        ENSALADA DELICIA GRANDE SOLO                      23.90   ENSALADAS       5.28%        29          20           0         693.10         478.00         452.76
+EN77691        ENSALADA SENSACION MEDIANA CON POLLO              23.90   ENSALADAS       5.28%        33          32           0         788.70         764.80         724.42
+BE39738        CERVEZA HEINEKEN                                  18.90   BEBIDAS         5.28%       112         105           0        2116.80        1984.50        1879.72
+BR15525        1/2  POLLO ANTICUCHO                              58.50   BRASA          18.60%        34          34          32        1989.00        1989.00        1619.05
+PI15392        PIQUEOS ANTICUCHO                                 18.90   PIQUEO         18.60%        47          38           0         888.30         718.20         584.61
+BE39851        CASILLERO DEL DIABLO BLANCO                       73.90   BEBIDAS        16.73%        99          96           0        7316.10        7094.40        5907.51
+BR15116        1/2 POLLO ENCAMOTADO                              49.90   BRASA           9.18%       103         100          63        5139.70        4990.00        4531.92
+BR15272        1/2 POLLO PARRILLERO ORIGINAL ANTICUCHO           59.90   BRASA           7.45%        18          16           0        1078.20         958.40         887.00
+AD11731        ARROZ CON LECHE                                   8.90    ADICIONAL       7.45%        46          37          10         409.40         329.30         304.77
+EN39141        CHICHA 1 LITRO                                    21.90   ENSALADAS       6.80%        32          32          25         700.80         700.80         653.15
+PI53518        PAPAS FRITAS                                      15.90   PIQUEO          6.80%       105         105          78        1669.50        1669.50        1555.97
+PO39903        CHICHA1/2 LITRO                                   10.50   POSTRES        13.99%        91          78           0         955.50         819.00         704.42
+BR15756        1/2 POLLO A LO BRAVO                              50.90   BRASA          13.99%        54          49           9        2748.60        2494.10        2145.18
+BE53546        CHOCLO                                            9.90    BEBIDAS         7.19%        89          85           0         881.10         841.50         781.00
+PA11850        BIFE A LA PARRILLA                                53.90   PARRILLA        7.19%        75          69           7        4042.50        3719.10        3451.70
+BR15760        1/4 POLLO BBQ/HOT ARROCERO                        34.50   BRASA           7.19%        31          28          14        1069.50         966.00         896.54
+AD53814        PALTA                                             9.90    ADICIONAL      10.91%        76          75          45         752.40         742.50         661.49
+BR15419        1/4 POLLO BBQ/HOT A LO BRAVO                      37.90   BRASA          10.91%        87          72           0        3297.30        2728.80        2431.09
+PI11500        PARRILLA PARA CUATRO                              128.90  PIQUEO         10.91%        23          17           0        2964.70        2191.30        1952.23
+EN77910        ENSALADA DELICIA MEDIANA CON POLLO                22.90   ENSALADAS      10.91%       117         117          53        2679.30        2679.30        2386.99
+BR15592        1/4 POLLO ANTICUCHO                               33.90   BRASA          10.91%        24          15           0         813.60         508.50         453.02
+SA53502        PORCION DE CAMOTE                                 15.90   SANGUCHE       10.81%        25          22           0         397.50         349.80         311.99
+ES39584        COCA COLA 1 LITRO                                 15.50   ESPECIALES     13.44%       116         115          66        1798.00        1782.50        1542.93
+BR15611        1/2 POLLO PAPAS ENSALADA                          46.90   BRASA          13.44%        36          34           6        1688.40        1594.60        1380.29
+PO11471        1 BOLA DE HELADO                                  8.90    POSTRES        13.44%        57          57          63         507.30         507.30         439.12
+BE39810        INTIPALKA MALBEC                                  71.90   BEBIDAS        13.44%        26          19           9        1869.40        1366.10        1182.50
+AP73428        TEQUEÑOS                                          19.50   APERITIVO      13.44%       130         121           0        2535.00        2359.50        2042.38
+AD39987        FANTA 1 LITRO                                     15.50   ADICIONAL      13.44%        26          21           0         403.00         325.50         281.75
+BR15326        1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO          36.90   BRASA          18.31%        18          16           0         664.20         590.40         482.30
+BE77493        ENSALADA CESARS MEDIANA CON POLLO                 23.90   BEBIDAS        12.78%       147         146          53        3513.30        3489.40        3043.45
+EN55338        SANGUCHE BRASA                                    22.90   ENSALADAS       9.46%        77          61           0        1763.30        1396.90        1264.75
+AD15539        PIQUEOS MINI POLLITOS PANKO                       21.90   ADICIONAL      13.99%        22           4           0         481.80          87.60          75.34
+BE39227        SPRITE1/2 LITRO                                   7.00    BEBIDAS        13.99%        93          91           0         651.00         637.00         547.88
+BE39431        CERVEZA CUSQUENA                                  12.50   BEBIDAS        11.05%       100          99          68        1250.00        1237.50        1100.76
+BR15950        1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO           43.90   BRASA           8.90%        62          62           1        2721.80        2721.80        2479.56
+BR15945        1/2 POLLO BBQ/HOT PAPAS ENSALADA                  48.90   BRASA           8.90%        17          15           4         831.30         733.50         668.22
+PO39199        LIMONADA 1 LITRO                                  10.50   POSTRES         8.90%       125         102           0        1312.50        1071.00         975.68
+BR15319        1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA      47.90   BRASA           8.90%       148         104           0        7089.20        4981.60        4538.24
+BR15197        1/2 POLLO ARROCERO                                47.50   BRASA          11.82%        78          78          51        3705.00        3705.00        3267.07
+EN77894        ENSALADA SENSACION GRANDE CON POLLO               32.90   ENSALADAS       5.74%        25          19           7         822.50         625.10         589.22
+BR15283        1/4 POLLO  PARRILLERO ORIGINAL- ARROCERO          33.50   BRASA           5.74%        55          55          18        1842.50        1842.50        1736.74
+EN39442        LIMONADA 1 LITRO                                  21.90   ENTRADA        11.88%        31          30           0         678.90         657.00         578.95
+BR15378        1/4 POLLO ARROCERO                                33.50   BRASA          11.88%        65          57           0        2177.50        1909.50        1682.65
+BE39955        CASILLERO DEL DIABLO TINTO                        73.90   BEBIDAS        14.83%       145         143          53       10715.50       10567.70        9000.51
+BR15578        1/4 POLLO A LO BRAVO                              33.50   BRASA          14.83%        74          72           0        2479.00        2412.00        2054.30
+BE53377        PLATANO                                           3.90    BEBIDAS        14.83%       145         125           0         565.50         487.50         415.20
+ES73410        ANTICUCHO                                         12.90   ESPECIALES     14.83%        42          32           0         541.80         412.80         351.58
+ES11871        LOMO A LA PARRILLA                                54.90   ESPECIALES     11.86%        80          77           6        4392.00        4227.30        3725.94
+BR15724        1/4 POLLO ENCAMOTADO                              31.50   BRASA          11.86%       119         118          47        3748.50        3717.00        3276.16
+BR15864        1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA      32.50   BRASA          16.73%        97          95           7        3152.50        3087.50        2570.96
+PI15404        PIQUEOS BROCHETA                                  17.90   PIQUEO         16.73%        25          25           2         447.50         447.50         372.63
+EN77971        ENSALADA HONEY MEDIANA CON POLLO                  23.90   ENSALADAS      16.73%        68          63           0        1625.20        1505.70        1253.80
+BE39536        SPRITE 1 LITRO                                    15.50   BEBIDAS        16.73%       137         136          70        2123.50        2108.00        1755.33
+AD15153        PIQUEOS MOLLEJITAS                                18.90   ADICIONAL      19.04%        38          38          22         718.20         718.20         581.45
+BE39160        INKA COLA 1 LITRO                                 15.50   BEBIDAS        17.39%       135         135          44        2092.50        2092.50        1728.61
+EN90758        BROCHETAS DE POLLO                                25.90   ENTRADA         7.08%        68          53           0        1761.20        1372.70        1275.51
+BR15745        1/2 POLLO  PARRILLERO ORIGINAL- ARROCERO          48.90   BRASA          14.48%        50          49          44        2445.00        2396.10        2049.14
+BR15621        1/4 POLLO BBQ/HOT PAPAS ENSALADA                  33.50   BRASA          13.94%        97          90           0        3249.50        3015.00        2594.71
+====================================================================================================
+RELACION DE CLIENTES VENDIDOS
+----------------------------------------------------------------------------------------------------
+90367684       CORONEL CHUMPITAZ HELI                       Villa Maria del Triunfo            13.04%   2394.44
+99774549       HENRIQUEZ ESPINO BEATRIZ                     San Borja                          17.38%   1607.29
+63640178       CABRERA CANALES GUILLERMO EDRIC              Magdalena del Mar                  18.78%   1705.38
+66039166       LAURA WONG MELVIN HENRRY                     Rimac                              18.78%    537.35
+20371464       CARO POLO SANDRO                             San Juan de Lurigancho             15.28%    492.56
+35606314       PORTUGAL BENAVENTE JOHANA GLORIA             Chorrillos                         11.91%   4702.24
+35852072       JUSTINO CRUZ WILLIAMS                        Ate Vitarte                        11.91%   5429.25
+51465986       CAMACHO AGUERO ELIA ROSA                     La Molina                          11.91%     78.40
+79100967       LANDA PISCOYA CHRISTIAN                      San Martin de Porres               11.91%    940.36
+72973662       BENAVENTE AYALA VIRGINIA IRMA                Independencia                      11.91%   1604.91
+54149342       MIYAKE MEREL MADELEINE YLIANA                Cercado de Lima                    11.91%   1011.27
+72330000       MEDINA VELASQUEZ MILENA JENNY                San Martin de Porres               11.91%   3043.07
+31284904       CORREA VIZCARDO MIGUEL                       Brena                              10.07%   2912.47
+66091742       AMEZQUITA EPIQUEN EVERT ROBERTO              Comas                              10.07%   2014.79
+93961840       CRUZ FUENTES JOHANA YDALI                    Villa Maria del Triunfo            10.07%   2241.69
+32538825       YOSHINARI RIVERA PAUL                        Pueblo Libre                       11.33%   6957.49
+94683380       ASMAD ACUNA ANNIE OFELIA                     Independencia                      18.03%   1615.79
+59561864       CHAVEZ PRADO SILVANA                         Santiago de Surco                  10.30%   4486.79
+61061535       DE LA CUBA ALBERTO PAIRAZAMAN                Pueblo Libre                       10.30%   2862.87
+22679759       GORDILLO YINO YVONNE ROSARIO                 Los Olivos                         19.91%   1771.99
+53420926       MARTEL ASMAD BRUNO ROBERTO                   El Agustino                        19.91%   4789.54
+37282858       HIJAR YEP WILLIAMS CHRISTIAN                 San Miguel                         19.91%    305.54
+34571095       CALDERON ORTEGA GUILLERMO                    Santa Rosa                         19.91%   2631.68
+93282118       SUAREZ BOLANOS RAFAEL                        Miraflores                         19.91%      0.00
+86836066       IBEROS VALDERRAMA RAFAEL                     Jesus Maria                        19.91%   2840.39
+57182371       VILCARA CORREA VICTOR                        Villa El Salvador                  19.91%   6293.07
+43704548       VALVERDE BERROCAL RONY GONZALO               Magdalena del Mar                  10.75%   2741.40
+12484697       HENRIQUEZ PORTUGAL ALEX                      Cercado de Lima                    15.34%   2335.60
+17299012       GONZALES ARIAS HENRY                         San Juan de Lurigancho             15.34%    748.31
+99891737       RETAMOSO BARRERA OSCAR                       Cercado de Lima                    18.78%      0.00
+91187814       MALDONADO FLORIAN JOHANA                     Santa Anita                        16.89%   1955.41
+36471787       ACUNA YINO ROCIO YOLANDA                     Pueblo Libre                       16.89%   3804.36
+81647285       VILLEGAS PALOMINO DORIS FREYSA               San Juan de Lurigancho             10.90%   2780.54
+15290194       BARRIOS TOMASICHE CARLOS ALBERTO             Villa El Salvador                  10.90%   1431.12
+45914393       MEJIA HUAYANAY CHRISTIAN ALONSO              San Borja                          17.53%   2555.91
+54815159       FLORIAN MORALES YDALI                        Pueblo Libre                       11.82%   1603.82
+85395219       MOYA ARANDA JOHNNY                           San Juan de Lurigancho             18.72%    797.19
+13731806       CORTEZ SEGURA CARMELA INES                   Rimac                              13.18%      0.00
+75100362       VEGA MUNOZ GONZALO                           Pueblo Libre                       13.18%   1867.85
+68269451       HIJAR PAIRAZAMAN JENNY DELICIA               La Molina                          13.18%   2532.97
+86988155       ALAMO PAIRAZAMAN MIGUEL ROBERTO              Santa Anita                        15.91%   2708.45
+77440060       CORONADO FIGUEROA JOHAN                      Santa Anita                        15.25%    391.29
+68114999       RUIZ GORDILLO CAROLA ERIKA                   Comas                              10.51%    568.17
+92275859       CALIXTO TOMASICHE MONICA DORIS               El Agustino                        10.51%   2250.41
+28992638       ANTEZANO SEGURA TERESA DELIA                 Miraflores                         10.51%    902.78
+71422479       ZARATE DEL POZO HUMBERTO ANTONIO             Villa El Salvador                  10.51%   4622.87
+25062013       GAVIDIA MENDOZA RONALD JOHNNY                San Juan de Lurigancho             19.02%   2300.32
+49357767       PATINO CHUNG BEATRIZ ROSA                    San Martin de Porres               18.33%   2915.21
+51873364       SEGURA MALCA RONY                            Rimac                              16.39%   6071.51
+95656771       FARFAN FALCON ELIZABETH KARIN                Surquillo                          16.27%   2634.90
+30246960       SUCHERO EPIQUEN EDGAR JAVIER                 Brena                              16.27%    717.40
+34697743       ASTETE RIOS CESAR WILVER                     Santiago de Surco                  11.26%   3896.66
+62126128       MEREL SALAZAR ANNIE LOURDES                  Santa Anita                        10.76%   2900.84
+51642949       SUELDO RUIZ ANTONIO                          San Martin de Porres               10.76%   4313.24
+80694546       DIAZ REYES WALTER EDGAR                      La Molina                          14.54%   1346.59
+65912822       LAU BACA MONICA TERESA                       Santa Rosa                         10.35%   3247.48
+45201670       URBINA HIJAR RAFAEL                          Santa Anita                        10.35%      0.00
+81539774       URBINA CASTILLO HELI                         Magdalena del Mar                  10.35%   3069.08
+77324146       FALCON PRECIADO ALEX HENRY                   Brena                              19.55%    477.07
+62287143       DE LA CUBA JUGO LUCERO DELICIA               Pueblo Libre                       19.55%    710.70
+52313890       DURAND MEZA WALDEMAR EDGARD                  Brena                              12.45%   2305.72
+36934113       SALAS URBINA MAGDA CARMEN                    Los Olivos                         18.33%   1989.07
+58643376       VILLEGAS LEIVA FELICITA                      Surquillo                          18.33%   1700.61
+27709566       SUAREZ MUNOZ MADELEINE                       Ate Vitarte                        18.33%    542.21
+60543714       BARRERA MIRANDA ALEXANDER MARTIN             San Borja                          16.71%   3410.48
+35347567       FIGUEROA COLLADO EVERT                       La Victoria                        16.71%   2120.40
+22598563       MONTERO MONTERO ANNIE                        Jesus Maria                        16.71%   1517.04
+14956687       LA HAZA CABRERA ALBERTO DE                   San Luis                           10.80%   2276.56
+59596317       AYALA VIZCARDO EDGAR MANUEL                  Rimac                              16.21%   3731.59
+93231760       CHUMPITAZ ALCOCER ANGEL ERICK                Los Olivos                         19.47%   3199.05
+93939698       CHUMPITAZ PALOMARES VIRGINIA                 El Agustino                        19.47%   1666.81
+41964357       VILLA SEDANO MARTIN JUVENAL                  Rimac                              19.47%   2382.96
+79133967       GUEVARA MIYAKE MILENA                        Magdalena del Mar                  19.47%    915.87
+72937662       ROSEMBERG LAU JULIO HENRRY                   Brena                              19.47%   2269.98
+59199342       ZAMBRANO MOSCOSO OFELIA MARIA                Pueblo Libre                       19.47%   3331.77
+67277765       CORTEZ SEGURA CARMELA INES                   Surquillo                          17.74%    382.10
+92980780       VEGA MUNOZ GONZALO                           Magdalena del Mar                  17.74%    140.83
+65278099       HIJAR PAIRAZAMAN JENNY DELICIA               Villa Maria del Triunfo            16.85%     55.71
+78223294       ALAMO PAIRAZAMAN MIGUEL ROBERTO              Santiago de Surco                  16.85%    142.35
+81334083       CORONADO FIGUEROA JOHAN                      San Borja                          16.77%    184.52
+49573578       RUIZ GORDILLO CAROLA ERIKA                   El Agustino                        12.43%     89.23
+31526241       CALIXTO TOMASICHE MONICA DORIS               Brena                              17.10%      0.00
+80740735       ANTEZANO SEGURA TERESA DELIA                 Brena                              13.64%    566.61
+73518695       ZARATE DEL POZO HUMBERTO ANTONIO             San Juan de Lurigancho             13.64%    354.42
+76595144       GAVIDIA MENDOZA RONALD JOHNNY                San Juan de Lurigancho             13.64%      0.00
+37769366       PATINO CHUNG BEATRIZ ROSA                    Surquillo                          13.64%    737.95
+40711531       SEGURA MALCA RONY                            Ate Vitarte                        16.17%    514.13
+82583252       FARFAN FALCON ELIZABETH KARIN                Santiago de Surco                  16.17%    415.55
+31712526       SUCHERO EPIQUEN EDGAR JAVIER                 El Agustino                        18.91%    318.03
+32352361       ASTETE RIOS CESAR WILVER                     San Martin de Porres               18.44%     53.01
+51808448       MEREL SALAZAR ANNIE LOURDES                  Rimac                              16.35%    575.60
+46466842       SUELDO RUIZ ANTONIO                          Villa Maria del Triunfo            16.35%    175.66
+65308391       DIAZ REYES WALTER EDGAR                      San Martin de Porres               16.35%    354.93
+56100384       LAU BACA MONICA TERESA                       La Molina                          19.00%    189.94
+52650965       URBINA HIJAR RAFAEL                          Chorrillos                         19.00%     24.06
+64262396       URBINA CASTILLO HELI                         Independencia                      19.00%      0.00
+22303979       FALCON PRECIADO ALEX HENRY                   Villa El Salvador                  19.24%      0.00
+51108372       DE LA CUBA JUGO LUCERO DELICIA               Magdalena del Mar                  15.01%     44.11
+38986512       DURAND MEZA WALDEMAR EDGARD                  La Molina                          15.11%    227.51
+63230770       SALAS URBINA MAGDA CARMEN                    San Juan de Lurigancho             15.11%    113.75
+86297512       VILLEGAS LEIVA FELICITA                      Cercado de Lima                    16.19%    143.48

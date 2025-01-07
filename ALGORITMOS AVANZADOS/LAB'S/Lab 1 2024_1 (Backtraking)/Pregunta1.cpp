@@ -49,6 +49,7 @@ void CalcularPedidos(int *t, int p, int k, int i,int n) {
         contador++;
         TodasSoluciones.push_back(solucion);
         Quitar(t,n);
+        bandera = true;
         return;
     }
     if (i == n or p < 0) return;

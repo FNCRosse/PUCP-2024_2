@@ -1,0 +1,196 @@
+Titulo: Un asunto de honor
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+Editorial: Planeta
+
+Titulo: Vidas intrepidas
+Peso: 0.4
+Autor: Julio Albi de la Cuesta
+Editorial: Salamandra
+
+Titulo: El reino de este mundo
+Peso: 0.4
+Autor: Alejo Carpentier
+Editorial: Salvat
+
+Titulo: El invierno del mundo
+Peso: 0.4
+Autor: Ken Follett
+Editorial: Planeta
+
+Titulo: El italiano
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+Editorial: Salamandra
+
+Titulo: Progreso del peregrino
+Peso: 0.4
+Autor: John Bunyan
+Editorial: Salamandra
+
+Titulo: El club Dumas
+Peso: 0.7
+Autor: Arturo Perez-Reverte
+Editorial: Planeta
+
+Titulo: El proceso
+Peso: 0.4
+Autor: Franz Kafka
+Editorial: Salvat
+
+Titulo: Relato de un naufrago
+Peso: 1.4
+Autor: Gabriel Garcia Marquez
+Editorial: Planeta
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 1.3
+ISSN: 10292004       Año: 2019
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 1.3
+ISSN: 10292004       Año: 2021
+
+Titulo: El doble
+Peso: 1.4
+Autor: Fiodor Dostoyevski
+Editorial: Salvat
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN: 10292004       Año: 2021
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN: 10292004       Año: 2022
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN: 10292004       Año: 2022
+
+Titulo: Espania con honra
+Peso: 0.7
+Autor: Daniel Aquillue
+Editorial: Salamandra
+
+Titulo: La chica del tren
+Peso: 0.7
+Autor: Paula Hawkins
+Editorial: Salamandra
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN: 10292004       Año: 2023
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN: 10292004       Año: 2023
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN: 10292004       Año: 2023
+
+Titulo: Apocalipticos e integrados
+Peso: 0.4
+Autor: Umberto Eco
+Editorial: Salamandra
+
+Titulo: Los pilares de la tierra
+Peso: 0.3
+Autor: Ken Follett
+Editorial: Planeta
+
+Titulo: Espania con honra
+Peso: 0.7
+Autor: Daniel Aquillue
+Editorial: Planeta
+
+Titulo: La chica del tren
+Peso: 0.7
+Autor: Paula Hawkins
+Editorial: Salamandra
+
+Titulo: Ricardo III
+Peso: 0.7
+Autor: William Shakespeare
+Editorial: Salvat
+
+Titulo: Justine o los infortunios
+Peso: 0.4
+Autor: Charles Dickens
+Editorial: Salvat
+
+Titulo: El medievo cristiano
+Peso: 0.4
+Autor: Mario Merlino
+Editorial: Salamandra
+
+Titulo: El extranio caso del Dr. Jekyll y Mr. Hyde
+Peso: 0.7
+Autor: Robert Louis Stevenson
+Editorial: Salamandra
+
+Titulo: Alicia en el pais de las maravillas
+Peso: 0.4
+Autor: Lewis Carroll
+Editorial: Salvat
+
+Titulo: El conde de Montecristo
+Peso: 0.7
+Autor: Alexandre Dumas
+Editorial: Planeta
+
+Titulo: Palmeras en la nieve
+Peso: 0.4
+Autor: Luz Gabas
+Editorial: Salamandra
+
+Titulo: Harry Potter y la piedra filosofal (Harry Potter 1)
+Peso: 0.4
+Autor: J. K. Rowling
+Editorial: Salamandra
+
+Titulo: El club Dumas
+Peso: 1
+Autor: Arturo Perez-Reverte
+Editorial: Salamandra
+
+Titulo: Juego de tronos
+Peso: 0.7
+Autor: George R.R.Martin
+Editorial: Salamandra 
+
+Titulo: La isla del tesoro
+Peso: 0.5
+Autor: Robert Louis Stevenson
+Editorial: Salvat
+
+Titulo: La transformacion del mundo
+Peso: 0.5
+Autor: J rgen Osterhammel
+Editorial: Planeta
+
+Titulo: El eterno marido
+Peso: 0.5
+Autor: Fiodor Dostoyevski
+Editorial: Planeta
+
+Titulo: Paris era una fiesta
+Peso: 0.5
+Autor: Hernest Hemingway
+Editorial: Planeta
+
+Titulo: Don Quijote de la Mancha
+Peso: 1
+Autor: Miguel de Cervantes
+Editorial: Salvat
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.15
+ISSN: 10292004       Año: 2020
+
+Titulo: El nombre de la rosa
+Peso: 0.6
+Autor: Umberto Eco
+Editorial: Planeta
+

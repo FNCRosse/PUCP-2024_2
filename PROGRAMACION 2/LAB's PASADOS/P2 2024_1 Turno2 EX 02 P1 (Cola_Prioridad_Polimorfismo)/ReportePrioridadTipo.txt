@@ -1,0 +1,222 @@
+Direccion:  Rimac
+Fecha Entrega: 2024/5/15  Costo: 10.00
+Fecha Pedido:  2024/5/11  DNI: 13731806
+Monto del Pedido: 2890.00
+
+Direccion:  Miraflores
+Fecha Entrega: 2024/5/15  Costo: 5.00
+Fecha Pedido:  2024/5/11  DNI: 28992638
+Monto del Pedido: 437.23
+
+Direccion:  San Juan de Lurigancho
+Fecha Entrega: 2024/5/5  Costo: 10.00
+Fecha Pedido:  2024/5/1  DNI: 20371464
+Monto del Pedido: 5434.72
+
+Direccion: Chorrillos
+Fecha Entrega: 2024/5/5  Costo: 5.00
+Fecha Pedido:  2024/5/1  DNI: 35606314
+Monto del Pedido: 4755.24
+
+Direccion: Ate
+Fecha Entrega: 2024/5/5  Costo: 2.00
+Fecha Pedido:  2024/5/1  DNI: 35852072
+Monto del Pedido: 895.72
+
+Direccion: Breña
+Fecha Entrega: 2024/5/7  Costo: 2.50
+Fecha Pedido:  2024/5/3  DNI: 31284904
+Monto del Pedido: 85.00
+
+Direccion:  Pueblo Libre
+Fecha Entrega: 2024/5/8  Costo: 10.00
+Fecha Pedido:  2024/5/4  DNI: 32538825
+Monto del Pedido: 8471.05
+
+Direccion:  Los Olivos
+Fecha Entrega: 2024/5/8  Costo: 7.00
+Fecha Pedido:  2024/5/4  DNI: 22679759
+Monto del Pedido: 7820.00
+
+Tienda de Recojo: Plaza San Miguel
+Fecha Pedido:  2024/5/4  DNI: 37282858
+Monto del Pedido: 4707.92
+
+Direccion:  Santa Rosa
+Fecha Entrega: 2024/5/8  Costo: 5.00
+Fecha Pedido:  2024/5/4  DNI: 34571095
+Monto del Pedido: 4760.00
+
+Direccion: Cercado de Lima
+Fecha Entrega: 2024/5/15  Costo: 5.00
+Fecha Pedido:  2024/5/11  DNI: 12484697
+Monto del Pedido: 921.29
+
+Direccion:  San Juan de Lurigancho
+Fecha Entrega: 2024/5/15  Costo: 2.00
+Fecha Pedido:  2024/5/11  DNI: 17299012
+Monto del Pedido: 935.00
+
+Direccion:  Pueblo Libre
+Fecha Entrega: 2024/5/15  Costo: 10.00
+Fecha Pedido:  2024/5/11  DNI: 36471787
+Monto del Pedido: 5100.00
+
+Tienda de Recojo: Mall del Sur
+Fecha Pedido:  2024/5/11  DNI: 15290194
+Monto del Pedido: 4728.98
+
+Tienda de Recojo: Jockey Plaza
+Fecha Pedido:  2024/5/4  DNI: 59561864
+Monto del Pedido: 4505.00
+
+Direccion:  San Borja
+Fecha Entrega: 2024/5/15  Costo: 1.50
+Fecha Pedido:  2024/5/11  DNI: 45914393
+Monto del Pedido: 1020.00
+
+Direccion:  Pueblo Libre
+Fecha Entrega: 2024/5/15  Costo: 1.50
+Fecha Pedido:  2024/5/11  DNI: 54815159
+Monto del Pedido: 8506.68
+
+Direccion:  La Molina
+Fecha Entrega: 2024/5/15  Costo: 2.00
+Fecha Pedido:  2024/5/11  DNI: 68269451
+Monto del Pedido: 896.59
+
+Direccion: Comas
+Fecha Entrega: 2024/5/15  Costo: 10.00
+Fecha Pedido:  2024/5/11  DNI: 68114999
+Monto del Pedido: 5188.68
+
+Direccion:  Magdalena del Mar
+Fecha Entrega: 2024/5/5  Costo: 1.00
+Fecha Pedido:  2024/5/1  DNI: 63640178
+Monto del Pedido: 5610.00
+
+Direccion:  Rimac
+Fecha Entrega: 2024/5/5  Costo: 4.00
+Fecha Pedido:  2024/5/1  DNI: 66039166
+Monto del Pedido: 4917.69
+
+Direccion:  La Molina
+Fecha Entrega: 2024/5/7  Costo: 10.00
+Fecha Pedido:  2024/5/3  DNI: 51465986
+Monto del Pedido: 4617.25
+
+Direccion: Cercado de Lima
+Fecha Entrega: 2024/5/7  Costo: 9.00
+Fecha Pedido:  2024/5/3  DNI: 54149342
+Monto del Pedido: 935.00
+
+Direccion: Comas
+Fecha Entrega: 2024/5/7  Costo: 1.00
+Fecha Pedido:  2024/5/3  DNI: 66091742
+Monto del Pedido: 3230.00
+
+Direccion:  Pueblo Libre
+Fecha Entrega: 2024/5/8  Costo: 10.00
+Fecha Pedido:  2024/5/4  DNI: 61061535
+Monto del Pedido: 3032.76
+
+Direccion:  El Agustino
+Fecha Entrega: 2024/5/8  Costo: 10.00
+Fecha Pedido:  2024/5/4  DNI: 53420926
+Monto del Pedido: 3910.00
+
+Tienda de Recojo: Mall del Sur
+Fecha Pedido:  2024/5/4  DNI: 57182371
+Monto del Pedido: 935.00
+
+Direccion:  Magdalena del Mar
+Fecha Entrega: 2024/5/15  Costo: 10.00
+Fecha Pedido:  2024/5/11  DNI: 43704548
+Monto del Pedido: 6149.91
+
+Direccion:  Villa María del Triunfo
+Fecha Entrega: 2024/5/5  Costo: 5.00
+Fecha Pedido:  2024/5/1  DNI: 90367684
+Monto del Pedido: 1102.03
+
+Direccion:  San Juan de Lurigancho
+Fecha Entrega: 2024/5/15  Costo: 4.00
+Fecha Pedido:  2024/5/11  DNI: 85395219
+Monto del Pedido: 4505.00
+
+Direccion:  Pueblo Libre
+Fecha Entrega: 2024/5/15  Costo: 5.00
+Fecha Pedido:  2024/5/11  DNI: 75100362
+Monto del Pedido: 90.03
+
+Tienda de Recojo: Mall Santa Anita
+Fecha Pedido:  2024/5/11  DNI: 86988155
+Monto del Pedido: 4505.00
+
+Tienda de Recojo: Mall Santa Anita
+Fecha Pedido:  2024/5/1  DNI: 77440060
+Monto del Pedido: 5866.26
+
+Direccion:  El Agustino
+Fecha Entrega: 2024/5/15  Costo: 9.00
+Fecha Pedido:  2024/5/11  DNI: 92275859
+Monto del Pedido: 4196.99
+
+Tienda de Recojo: Mall del Sur
+Fecha Pedido:  2024/5/11  DNI: 71422479
+Monto del Pedido: 6885.00
+
+Direccion:  San Borja
+Fecha Entrega: 2024/5/5  Costo: 1.50
+Fecha Pedido:  2024/5/1  DNI: 99774549
+Monto del Pedido: 5100.00
+
+Direccion:  San Martin de Porres
+Fecha Entrega: 2024/5/7  Costo: 7.00
+Fecha Pedido:  2024/5/3  DNI: 79100967
+Monto del Pedido: 2890.00
+
+Direccion:  Independencia
+Fecha Entrega: 2024/5/7  Costo: 10.00
+Fecha Pedido:  2024/5/3  DNI: 72973662
+Monto del Pedido: 935.00
+
+Direccion:  San Martin de Porres
+Fecha Entrega: 2024/5/7  Costo: 5.00
+Fecha Pedido:  2024/5/3  DNI: 72330000
+Monto del Pedido: 5100.00
+
+Direccion:  Villa María del Triunfo
+Fecha Entrega: 2024/5/7  Costo: 4.00
+Fecha Pedido:  2024/5/3  DNI: 93961840
+Monto del Pedido: 3483.43
+
+Direccion:  Independencia
+Fecha Entrega: 2024/5/8  Costo: 5.00
+Fecha Pedido:  2024/5/4  DNI: 94683380
+Monto del Pedido: 5440.00
+
+Direccion:  Miraflores
+Fecha Entrega: 2024/5/8  Costo: 2.50
+Fecha Pedido:  2024/5/4  DNI: 93282118
+Monto del Pedido: 935.00
+
+Direccion:  Jesús María
+Fecha Entrega: 2024/5/8  Costo: 1.50
+Fecha Pedido:  2024/5/4  DNI: 86836066
+Monto del Pedido: 2931.83
+
+Direccion: Cercado de Lima
+Fecha Entrega: 2024/5/15  Costo: 10.00
+Fecha Pedido:  2024/5/11  DNI: 99891737
+Monto del Pedido: 8403.34
+
+Tienda de Recojo: Mall Santa Anita
+Fecha Pedido:  2024/5/11  DNI: 91187814
+Monto del Pedido: 5359.40
+
+Direccion:  San Juan de Lurigancho
+Fecha Entrega: 2024/5/15  Costo: 9.00
+Fecha Pedido:  2024/5/11  DNI: 81647285
+Monto del Pedido: 6885.00
+

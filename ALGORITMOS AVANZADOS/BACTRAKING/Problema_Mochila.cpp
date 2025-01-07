@@ -17,7 +17,7 @@ int empaca(int *paq,int peso,int n,int index){
 	}
 }
 int main (int argc,char** argv){
-	int n=4, peso =22;
+	int n=4, peso =20;
 	int paq[]={1,3,12,5};
 	int posicion = 0;
 	cout<<empaca(paq,peso,n,posicion);

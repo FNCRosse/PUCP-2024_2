@@ -13,8 +13,8 @@ using namespace std;
 
 int main(int argc, char** argv) {
     
-    //Pregunta1();
-    Pregunta2();
+    Pregunta1();
+//    Pregunta2();
     return 0;
 }
 

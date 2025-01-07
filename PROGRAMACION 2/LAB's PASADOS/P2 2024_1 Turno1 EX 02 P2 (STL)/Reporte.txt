@@ -1,0 +1,247 @@
+REPORTE DE RECOMENDACIONES
+==================================================
+Codigo de Cliente: A1B2C       Nombre: Juan Perez
+Libro Comprado 1) Cien anos de soledad
+Libros Recomendados: 
+El coronel no tiene quien le escriba
+El otoño del patriarca
+El otoño del patriarca
+El otoño del patriarca
+Libro Comprado 1) Fervor de Buenos Aires
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: D3E4F       Nombre: Maria Gonzalez
+Libro Comprado 1) Veinte poemas de amor y una cancion desesperada
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) La ciudad y los perros
+Libros Recomendados: 
+La casa verde
+Libro Comprado 1) Rayuela
+Libros Recomendados: 
+Historia de cronopios y de famas
+Historia de cronopios y de famas
+Libro Comprado 1) La casa de los espiritus
+Libros Recomendados: 
+La casa de los espiritus
+==================================================
+==================================================
+Codigo de Cliente: G5H6I       Nombre: Carlos Martinez
+Libro Comprado 1) La hora de la estrella
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Dona Flor y sus dos maridos
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Los detectives salvajes
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: J7K8L       Nombre: Ana Rodriguez
+Libro Comprado 1) Pedro Paramo
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: M1N2O       Nombre: Luis Hernandez
+Libro Comprado 1) Cien anos de soledad
+Libros Recomendados: 
+El coronel no tiene quien le escriba
+El otoño del patriarca
+El otoño del patriarca
+El otoño del patriarca
+Libro Comprado 1) Fervor de Buenos Aires
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Veinte poemas de amor y una cancion desesperada
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) La ciudad y los perros
+Libros Recomendados: 
+La casa verde
+Libro Comprado 1) Rayuela
+Libros Recomendados: 
+Historia de cronopios y de famas
+Historia de cronopios y de famas
+==================================================
+==================================================
+Codigo de Cliente: P3Q4R       Nombre: Lucia Lopez
+Libro Comprado 1) La casa de los espiritus
+Libros Recomendados: 
+La casa de los espiritus
+Libro Comprado 1) Los detectives salvajes
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: S5T6U       Nombre: Andres Ramirez
+Libro Comprado 1) La hora de la estrella
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Dona Flor y sus dos maridos
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Pedro Paramo
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: V7W8X       Nombre: Sofia Jimenez
+Libro Comprado 1) Cien anos de soledad
+Libros Recomendados: 
+El coronel no tiene quien le escriba
+El otoño del patriarca
+El otoño del patriarca
+El otoño del patriarca
+Libro Comprado 1) Fervor de Buenos Aires
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Veinte poemas de amor y una cancion desesperada
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) La ciudad y los perros
+Libros Recomendados: 
+La casa verde
+==================================================
+==================================================
+Codigo de Cliente: Y1Z2A       Nombre: Pedro Torres
+Libro Comprado 1) Rayuela
+Libros Recomendados: 
+Historia de cronopios y de famas
+Historia de cronopios y de famas
+==================================================
+==================================================
+Codigo de Cliente: B3C4D       Nombre: Daniela Flores
+Libro Comprado 1) La hora de la estrella
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Dona Flor y sus dos maridos
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Pedro Paramo
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) La casa de los espiritus
+Libros Recomendados: 
+La casa de los espiritus
+Libro Comprado 1) Los detectives salvajes
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: E5F6G       Nombre: Alberto Ruiz
+Libro Comprado 1) Cien anos de soledad
+Libros Recomendados: 
+El coronel no tiene quien le escriba
+El otoño del patriarca
+El otoño del patriarca
+El otoño del patriarca
+Libro Comprado 1) Fervor de Buenos Aires
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Veinte poemas de amor y una cancion desesperada
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: H7I8J       Nombre: Patricia Moreno
+Libro Comprado 1) La ciudad y los perros
+Libros Recomendados: 
+La casa verde
+Libro Comprado 1) Rayuela
+Libros Recomendados: 
+Historia de cronopios y de famas
+Historia de cronopios y de famas
+==================================================
+==================================================
+Codigo de Cliente: K1L2M       Nombre: Jorge Vega
+Libro Comprado 1) La hora de la estrella
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Dona Flor y sus dos maridos
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) La casa de los espiritus
+Libros Recomendados: 
+La casa de los espiritus
+Libro Comprado 1) Los detectives salvajes
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: N3O4P       Nombre: Carmen Rios
+Libro Comprado 1) Pedro Paramo
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: Q5R6S       Nombre: Raul Gutierrez
+Libro Comprado 1) Cien anos de soledad
+Libros Recomendados: 
+El coronel no tiene quien le escriba
+El otoño del patriarca
+El otoño del patriarca
+El otoño del patriarca
+Libro Comprado 1) Fervor de Buenos Aires
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Veinte poemas de amor y una cancion desesperada
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: T7U8V       Nombre: Elena Castro
+Libro Comprado 1) La hora de la estrella
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) La ciudad y los perros
+Libros Recomendados: 
+La casa verde
+Libro Comprado 1) Rayuela
+Libros Recomendados: 
+Historia de cronopios y de famas
+Historia de cronopios y de famas
+Libro Comprado 1) La casa de los espiritus
+Libros Recomendados: 
+La casa de los espiritus
+Libro Comprado 1) Los detectives salvajes
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: W1X2Y       Nombre: Guillermo Mendoza
+Libro Comprado 1) Dona Flor y sus dos maridos
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Pedro Paramo
+Libros Recomendados: 
+No hay Recomendaciones
+==================================================
+==================================================
+Codigo de Cliente: Z3A4B       Nombre: Silvia Ortiz
+Libro Comprado 1) Cien anos de soledad
+Libros Recomendados: 
+El coronel no tiene quien le escriba
+El otoño del patriarca
+El otoño del patriarca
+El otoño del patriarca
+Libro Comprado 1) Fervor de Buenos Aires
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) Veinte poemas de amor y una cancion desesperada
+Libros Recomendados: 
+No hay Recomendaciones
+Libro Comprado 1) La ciudad y los perros
+Libros Recomendados: 
+La casa verde
+==================================================
+==================================================
+Codigo de Cliente: C5D6E       Nombre: Esteban Silva
+Libro Comprado 1) Rayuela
+Libros Recomendados: 
+Historia de cronopios y de famas
+Historia de cronopios y de famas
+==================================================

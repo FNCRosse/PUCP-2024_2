@@ -1,0 +1,1325 @@
+NFP3266     Sabotaje
+3           Arturo Perez-Reverte
+DNI CLIENTES:
+16568472    16572728    
+
+ALH8812     Guerra y Paz
+3           Leon Tolstoi
+DNI CLIENTES:
+16556232    16568184    
+
+VDL9379     Los juegos del hambre
+3           Suzanne Collins
+DNI CLIENTES:
+16583272    
+
+VFI8064     A sangre fria
+3           Truman Capote
+DNI CLIENTES:
+16563544    16564344    
+
+QHZ8547     Adios a las armas
+3           Hernest Hemingway
+DNI CLIENTES:
+16570888    
+
+JZU0977     El alquimista
+3           Paulo Coelho
+DNI CLIENTES:
+16555368    
+
+KLV1872     Orgullo y prejuicio
+3           Jane Austen
+DNI CLIENTES:
+16552744    
+
+UDS2730     Los Nibelungos
+3           Anonimo
+DNI CLIENTES:
+16557984    16577336    
+
+CKR6798     El lobo estepario
+3           Hermann Hesse
+DNI CLIENTES:
+16574216    
+
+CJN4376     Harry Potter y la camara secreta (Harry Potter 2)
+3           J. K. Rowling
+DNI CLIENTES:
+16573640    
+
+CST1133     Inferno
+3           Dan Brown
+DNI CLIENTES:
+16557936    16565368    
+
+MBB0685     El capitan Alatriste
+3           Arturo Perez-Reverte
+DNI CLIENTES:
+16584360    
+
+IPE3429     Sidi
+3           Arturo Perez-Reverte
+DNI CLIENTES:
+16552856    
+
+KVL6246     La edad media - barbaros - cristianos y musulmanes
+3           Umberto Eco
+DNI CLIENTES:
+16557536    16571368    
+
+JSM8271     La Odisea
+3           Homero
+DNI CLIENTES:
+16553848    16567480    16577048    
+
+BHD6079     Zorba el griego
+3           Nikos Kazantzakis
+DNI CLIENTES:
+16562008    
+
+EJE8138     Yawar fiesta
+3           Jose Maria Arguedas
+DNI CLIENTES:
+16556456    16584040    
+
+ZQD4253     Harry Potter y el misterio del principe ( Harry Potter 6)
+3           J. K. Rowling
+DNI CLIENTES:
+16554024    
+
+ULM8751     La sumisa
+3           Fiodor Dostoyevski
+DNI CLIENTES:
+16559968    
+
+ELC8965     Las aventuras de Rocambole
+3           Ponson Du Terrail
+DNI CLIENTES:
+16555048    
+
+QYH7021     Historia del siglo XX: 1914-1991
+3           Eric Hobsbawm
+DNI CLIENTES:
+16567496    
+
+JJV7549     Los hombres que no amaban a las mujeres
+3           Stieg Larsson
+DNI CLIENTES:
+16572808    
+
+DPZ8059     El hombre que pudo reinar
+3           Rudyard Kipling
+DNI CLIENTES:
+16554504    
+
+ZLE2920     Historia de la Edad Media
+3           Indro Montanelli
+DNI CLIENTES:
+16558400    16560968    
+
+BSX2922     Una historia de Espania
+3           Arturo Perez-Reverte
+DNI CLIENTES:
+16559600    
+
+TVR7016     El corazon de las tinieblas
+3           Joseph Conrad
+DNI CLIENTES:
+16573320    
+
+CMP1150     Don Quijote de la Mancha
+3           Miguel de Cervantes
+DNI CLIENTES:
+16556408    16573048    
+
+VOI0019     El evangelio según Jesucristo
+3           Jose Saramago
+DNI CLIENTES:
+16570088    
+
+YKQ9278     Alicia en el pais de las maravillas
+3           Lewis Carroll
+DNI CLIENTES:
+16571784    
+
+UEJ1235     Grandes esperanzas
+3           Charles Dickens
+DNI CLIENTES:
+16563096    16563688    
+
+HPP3360     El pintor de batallas
+3           Arturo Perez-Reverte
+DNI CLIENTES:
+16555128    16557648    16562104    16584008    
+
+SFR1226     Ana la de las tejas verdes
+3           Lucy Maud Montgomery
+DNI CLIENTES:
+16555800    
+
+RLQ7170     El tango de la guardia vieja
+3           Arturo Perez-Reverte
+DNI CLIENTES:
+16564360    16560952    
+
+XJT3661     Las aventuras de Tom Sawye
+3           Mark Twain
+DNI CLIENTES:
+16583304    
+
+QCA9584     Dr. Jekyll y Mr. Hyde
+3           Robert Louis Stevenson
+DNI CLIENTES:
+16561592    16574648    
+
+IMC3155     Los pilares de la tierra
+3           Ken Follett
+DNI CLIENTES:
+16583560    
+
+ILG7766     Iliada
+3           Homero
+DNI CLIENTES:
+16570392    
+
+NEO9165     Emperador de Roma
+3           Mary Beard
+DNI CLIENTES:
+16555240    
+
+RII8346     Las dos Dianas
+3           Alejandro Dumas
+DNI CLIENTES:
+16558416    
+
+LDL2628     Harry Potter y el caliz de fuego (Harry Potter 4)
+3           J.K. Rowling
+DNI CLIENTES:
+16561352    
+
+EDQ0577     Las aventuras de Pinocho
+3           Carlo Collodi
+DNI CLIENTES:
+16564632    
+
+IIM5175     Diamantes y pedernales
+2           Jose Maria Arguedas
+DNI CLIENTES:
+16549184    16565016    
+
+ZOY6470     El viejo y el mar
+2           Hernest Hemingway
+DNI CLIENTES:
+16566296    16576584    
+
+ETZ8565     Confesiones de una mascara
+2           Yukio Mishima
+DNI CLIENTES:
+16560208    
+
+VFZ9435     El olor de la Edad Media
+2           Javier Traite
+DNI CLIENTES:
+16547664    16562200    16576920    16577864    16583928    
+
+YJI3961     Cien anios de soledad
+2           Gabriel Garcia Marquez
+DNI CLIENTES:
+16553816    16566968    
+
+VPN5351     El Amante
+2           Ana Maria Moix
+DNI CLIENTES:
+16559408    
+
+DVL7760     Falco
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16549904    16559056    
+
+TBZ2657     Olalla
+2           Robert Louis Stevenson
+DNI CLIENTES:
+16561256    16575720    
+
+IBP7411     Nunca
+2           Ken Follett
+DNI CLIENTES:
+16568152    
+
+SQB7146     Cronica de una muerte anunciada
+2           Gabriel Garcia Marquez
+DNI CLIENTES:
+16554296    16559632    16572120    
+
+KWL0415     1923
+2           Roberto Villa Garcia
+DNI CLIENTES:
+16549504    16558176    16557008    16574232    
+
+CKC4095     El Gran Gatsby
+2           F. Scott Fitzgerald
+DNI CLIENTES:
+16560096    16571416    16573448    16584344    
+
+JLQ6546     El retorno del Rey
+2           J.R.R.Tolkien
+DNI CLIENTES:
+16557952    16567272    16572824    
+
+NBL8415     Espania con honra
+2           Daniel Aquillue
+DNI CLIENTES:
+16557072    16564904    16568616    
+
+GQC1814     Apocalipticos e integrados
+2           Umberto Eco
+DNI CLIENTES:
+16562280    
+
+FBO8724     El pendulo de Foucault
+2           Umberto Eco
+DNI CLIENTES:
+16559680    
+
+WCZ0845     El cementerio de Praga
+2           Umberto Eco
+DNI CLIENTES:
+16557808    16577944    
+
+VMW6915     Travesuras de la ninia mala
+2           Mario Vargas Llosa
+DNI CLIENTES:
+16568216    16568680    16572584    16573848    
+
+MBQ9495     Tormenta de espadas
+2           George R.R.Martin
+DNI CLIENTES:
+16557088    16562776    16577112    
+
+IMK4892     La tabla de Flandes
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16562792    16565864    16567528    
+
+PZP7176     La caida de los gigantes
+2           Ken Follett
+DNI CLIENTES:
+16557120    16566040    
+
+KTA8754     Ulises
+2           James Joyce
+DNI CLIENTES:
+16584712    16585304    
+
+TOJ1764     Ensayo sobre la ceguera
+2           Jose Saramago
+DNI CLIENTES:
+16547504    16576504    
+
+ZPD6557     El ruido y la furia
+2           William Faulkner
+DNI CLIENTES:
+16565688    
+
+IUG2294     El proceso
+2           Franz Kafka
+DNI CLIENTES:
+16557312    16572760    
+
+OBD2849     El invierno del mundo
+2           Ken Follett
+DNI CLIENTES:
+16563400    
+
+UCJ9882     El reino de este mundo
+2           Alejo Carpentier
+DNI CLIENTES:
+16549888    16561048    
+
+MWB2923     Mudlarking
+2           Lara Maiklem
+DNI CLIENTES:
+16567288    
+
+UXZ2187     Los 7 habitos de la gente altamente efectiva
+2           Stephen R. Covey
+DNI CLIENTES:
+16564488    16566424    16572216    
+
+DDQ0721     En busca del tiempo perdido
+2           Marcel Proust
+DNI CLIENTES:
+16546704    16564120    
+
+HWM4049     Romper el circulo
+2           Colleen Hoover
+DNI CLIENTES:
+16549936    16573560    
+
+JZC7527     El tambor de hojalata
+2           Gunter Grass
+DNI CLIENTES:
+16553448    16554872    16574264    
+
+WYE2119     El asedio
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16554328    16555768    16573240    
+
+CTW5846     El medievo cristiano
+2           Mario Merlino
+DNI CLIENTES:
+16561800    16573032    
+
+FWP8469     Justine o los infortunios
+2           Charles Dickens
+DNI CLIENTES:
+16567800    
+
+CRY6839     Ricardo III
+2           William Shakespeare
+DNI CLIENTES:
+16549088    16553352    16555960    16563352    16570008    
+
+QBL9575     Los miserables
+2           Victor Hugo
+DNI CLIENTES:
+16547440    16557248    
+
+TMR5068     Los tres mosqueteros
+2           Alejandro Dumas
+DNI CLIENTES:
+16585144    
+
+RWW7975     El nombre de la rosa
+2           Umberto Eco
+DNI CLIENTES:
+16546432    16559936    16563816    16561032    
+
+PPI9259     Revolucion
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16568040    16575992    
+
+ZYF6683     Harry Potter y la Orden del Fenix ( Harry Potter 5)
+2           J. K. Rowling
+DNI CLIENTES:
+16571912    16577512    
+
+WWT1581     La piel del tambor
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16546592    16574808    16574872    
+
+USE5598     Fortaleza digitali
+2           Dan Brown
+DNI CLIENTES:
+16561448    16567992    
+
+MNL3677     El Hobbit
+2           J.R.R. Tolkien
+DNI CLIENTES:
+16562888    16578088    
+
+PQZ1316     La Eneida
+2           Virgilio
+DNI CLIENTES:
+16548992    16556296    16566344    16575160    16577496    
+
+EEJ4830     El Principito
+2           Antoine de Saint-Exupery
+DNI CLIENTES:
+16564024    16568792    
+
+JXK3142     En el camino
+2           Jack Kerouac
+DNI CLIENTES:
+16553736    16554232    16555064    16564552    16570712    
+
+BDK4183     La isla del tesoro
+2           Robert Louis Stevenson
+DNI CLIENTES:
+16566776    16570936    
+
+ECT0289     Juego de tronos
+2           George R.R.Martin
+DNI CLIENTES:
+16566568    
+
+CXW5879     Los barcos se pierden en tierra
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16566360    16575512    
+
+FMX8255     Las aventuras de Huckleberry Finn
+2           Mark Twain
+DNI CLIENTES:
+16564760    16583432    
+
+ZQY9966     El suenio del tio
+2           Fiodor Dostoyevski
+DNI CLIENTES:
+16572248    16574392    
+
+LRV5687     La guerra del fin del mundo
+2           Mario Vargas Llosa
+DNI CLIENTES:
+16554280    
+
+EBT7258     Linea de fuego
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16558336    16561496    16584424    
+
+QVX9089     Madame Bovary
+2           Gustave Flaubert
+DNI CLIENTES:
+16576472    
+
+RZX8790     El senior de las moscas
+2           William Golding
+DNI CLIENTES:
+16565208    16565384    16577320    
+
+HGN9910     La ciudad y los perros
+2           Mario Vargas Llosa
+DNI CLIENTES:
+16563384    16571736    
+
+JNC0786     Mi isla
+2           Elisabet Benavent
+DNI CLIENTES:
+16583832    
+
+FNM6936     Divina comedia
+2           Dante Alighieri
+DNI CLIENTES:
+16555624    16575480    
+
+HVZ1228     El húsar
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16570968    
+
+KBF4088     Harry Potter y el prisionero de Azkaban (Harry Potter 3)
+2           J.K. Rowling
+DNI CLIENTES:
+16574968    
+
+AKU9740     Conversacion en La Catedral
+2           Mario Vargas Llosa
+DNI CLIENTES:
+16565784    
+
+OCI8959     David Copperfield
+2           Charles Dickens
+DNI CLIENTES:
+16577624    16583720    
+
+WHU1288     La hija italiana
+2           Soraya Lane
+DNI CLIENTES:
+16571320    
+
+ICU6090     La fiesta del chivo
+2           Mario Vargas Llosa
+DNI CLIENTES:
+16567224    
+
+YZV6954     Corazon de las tinieblas
+2           Joseph Conrad
+DNI CLIENTES:
+16547712    16556992    16570104    
+
+CLG5566     Pantaleon y las visitadoras
+2           Mario Vargas Llosa
+DNI CLIENTES:
+16566520    
+
+IUI3314     El coronel no tiene quien le escriba
+2           Gabriel Garcia Marquez
+DNI CLIENTES:
+16563320    
+
+SPM4763     Eva
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16563144    
+
+KSX7995     El simbolo perdidoi
+2           Dan Brown
+DNI CLIENTES:
+16550192    16573752    
+
+QKH2262     Fiesta
+2           Hernest Hemingway
+DNI CLIENTES:
+16564776    16575640    
+
+OBH4691     Crimen y castigo
+2           Fiodor Dostoyevski
+DNI CLIENTES:
+16577688    
+
+ILA4795     La ladrona de libros
+2           Markus ZusaK
+DNI CLIENTES:
+16585272    
+
+EZP0333     La Reina del Sur
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16556072    16552872    
+
+RNG2321     El Aleph
+2           Jorge Luis Borges
+DNI CLIENTES:
+16556216    16576840    
+
+RSK1164     El amor en los tiempos del colera
+2           Gabriel Garcia Marquez
+DNI CLIENTES:
+16546464    16576408    16577064    
+
+CRR5443     Un mundo feliz
+2           Aldous Huxley
+DNI CLIENTES:
+16557232    16567720    16583816    
+
+FYV9055     Macbeth
+2           William Shakespeare
+DNI CLIENTES:
+16546832    16547040    
+
+MEH2993     Hijos de un tiempo perdido
+2           Jose Maria Bermúdez de Castro
+DNI CLIENTES:
+16574952    
+
+GDA4236     Gente normal
+2           Sally Rooney
+DNI CLIENTES:
+16575944    
+
+EHX6253     La isla de las tormentas
+2           Ken Follett
+DNI CLIENTES:
+16576616    
+
+BUT4998     Lolita
+2           Vladimir Nabokov
+DNI CLIENTES:
+16567832    
+
+BZY0235     Fausto
+2           Johann Wolfgang Von Goethe
+DNI CLIENTES:
+16555032    16564040    16567368    16570792    16573176    
+
+QQQ4712     Nuestra Seniora de Paris
+2           Victor Hugo
+DNI CLIENTES:
+16552936    
+
+BTX3816     El jugador
+2           Fiodor Dostoyevski
+DNI CLIENTES:
+16546880    16559760    16584472    
+
+AGQ7769     La Flecha Negra
+2           Robert Louis Stevenson
+DNI CLIENTES:
+16570184    
+
+BXE0974     Los viajes de Gulliver
+2           Jonathan Swift
+DNI CLIENTES:
+16558752    16573784    
+
+NEW1762     Territorio comanche
+2           Arturo Perez-Reverte
+DNI CLIENTES:
+16553784    16568728    
+
+IFL0150     Romeo y Julieta
+2           William Shakespeare
+DNI CLIENTES:
+16559424    16575096    16575784    
+
+JZQ8143     Suenios de robot
+2           Isaac Asimov
+DNI CLIENTES:
+16560528    16561304    16584984    
+
+KGO1734     Una historia del mundo
+2           Andrew Marr
+DNI CLIENTES:
+16546512    16546896    16562392    
+
+VSG3432     Bajo bandera negra
+2           David Cordingly
+DNI CLIENTES:
+16560304    16562696    16571576    16575256    
+
+OQK1590     Cometas en el cielo
+2           Khaled Hosseini
+DNI CLIENTES:
+16575304    
+
+HPM0950     Fahrenheit 451
+2           Ray Bradbury
+DNI CLIENTES:
+16559824    16556816    
+
+DEK2757     En llamas
+2           Suzanne Collins
+DNI CLIENTES:
+16553128    16563960    16571256    
+
+KLO8691     Catedral
+1           Raymond Carver
+DNI CLIENTES:
+16560576    
+
+UCA0857     SPQR: una historia de la antigua Roma
+1           Mary Beard
+DNI CLIENTES:
+16576760    
+
+TAB4639     El color que cayo del cielo
+1           H. P. Lovecraft
+DNI CLIENTES:
+16560416    16576536    
+
+VYG3594     Los demonios
+1           Fiodor Dostoyevski
+DNI CLIENTES:
+16562024    
+
+RAO4129     Stalingrado
+1           Jonathan Trigg
+DNI CLIENTES:
+16566136    
+
+SMI7078     Los cachorros
+1           Mario Vargas Llosa
+DNI CLIENTES:
+16553656    
+
+XTM9385     El mundo
+1           Simon Sebag Montefiore
+DNI CLIENTES:
+16549824    
+
+PCS8992     Y no quedo ninguno
+1           Agatha Christie
+DNI CLIENTES:
+16553256    
+
+NGQ6935     La casa de los espiritus
+1           Isabel Allende
+DNI CLIENTES:
+16559008    
+
+GUN8655     Angeles y demoniosi
+1           Dan Brown
+DNI CLIENTES:
+16566696    
+
+MLC7198     Los rios profundos
+1           Jose Maria Arguedas
+DNI CLIENTES:
+16574104    
+
+XBC5847     Tiempos recios
+1           Mario Vargas Llosa
+DNI CLIENTES:
+16584568    
+
+PQB0775     El diablo de la botella y otros cuentos
+1           Robert Louis Stevenson
+DNI CLIENTES:
+16565928    16577608    
+
+JEN0751     Ana Karenina
+1           Leon Tolstoi
+DNI CLIENTES:
+16582872    
+
+RYI5447     El corazon es un cazador solitario
+1           Carson Mccullers
+DNI CLIENTES:
+16577800    
+
+BUY4915     La sombra del aguila
+1           Arturo Perez-Reverte
+DNI CLIENTES:
+16557776    
+
+BUC5125     El faro de Stalingrado
+1           Iain MacGregor
+DNI CLIENTES:
+16571624    
+
+PHL4155     El idiota
+1           Fiodor Dostoyevski
+DNI CLIENTES:
+16584440    
+
+HHR5161     El francotirador paciente
+1           Arturo Perez-Reverte
+DNI CLIENTES:
+16574056    
+
+HSE3213     Por quien doblan las campanas
+1           Hernest Hemingway
+DNI CLIENTES:
+16583032    
+
+SMW0186     La sombra del viento
+1           Carlos Ruiz Zafon
+DNI CLIENTES:
+16549632    16584136    
+
+QMI4747     La isla de los amores infinitos
+1           Daina Chaviano
+DNI CLIENTES:
+16550064    
+
+GOG7446     El guardian entre el centeno
+1           J. D. Salinger
+DNI CLIENTES:
+16553384    
+
+DVR5984     Mil soles esplendidos
+1           Khaled Hosseini
+DNI CLIENTES:
+16568200    16583528    
+
+JGG5049     El eterno marido
+1           Fiodor Dostoyevski
+DNI CLIENTES:
+16555336    16560856    
+
+USM9579     El perfume
+1           Patrick Suskind
+DNI CLIENTES:
+16565752    
+
+DDU0764     Dioses tumbas y sabios
+1           C. W. Ceram
+DNI CLIENTES:
+16559168    
+
+ZAL2738     1984
+1           George Orwell
+DNI CLIENTES:
+16549520    
+
+CPE5718     Paris era una fiesta
+1           Hernest Hemingway
+DNI CLIENTES:
+16549344    
+
+GKG6581     Hombres buenos
+1           Arturo Perez-Reverte
+DNI CLIENTES:
+16554824    
+
+LJE6687     El codigo Da Vinci
+1           Dan Brown
+DNI CLIENTES:
+16584664    
+
+WMN3648     Pasaje a la India
+1           E. M. Forster
+DNI CLIENTES:
+16565000    
+
+EWI3090     La seniora Dalloway
+1           Virginia Woolf
+DNI CLIENTES:
+16574440    
+
+XIU6076     Rebelion en la granja
+1           George Orwell
+DNI CLIENTES:
+16546912    16565400    
+
+LJD9991     Baudolino
+1           Umberto Eco
+DNI CLIENTES:
+16571992    
+
+HRT0664     Los funerales de la Mama Grande
+1           Gabriel Garcia Marquez
+DNI CLIENTES:
+16555256    
+
+OWU1533     Cuatro principes
+1           John Julius Norwich
+DNI CLIENTES:
+16576024    
+
+KPE7420     Jane Eyre
+1           Charlotte Brontë
+DNI CLIENTES:
+16558992    
+
+XCC4070     El italiano
+1           Arturo Perez-Reverte
+DNI CLIENTES:
+16562712    16575176    
+
+WGA2754     El club Dumas
+1           Arturo Perez-Reverte
+DNI CLIENTES:
+16567240    
+
+GWE4133     El gato negro y otros cuentos
+1           Edgar Allan Poe
+DNI CLIENTES:
+16555608    
+
+UQL8643     Dracula
+1           Bram Stoker
+DNI CLIENTES:
+16572296    
+
+LQA8555     Rimas y leyendas
+1           Gustavo Adolfo Becquer
+DNI CLIENTES:
+16571016    
+
+WOF6634     El problema final
+1           Arturo Perez-Reverte
+DNI CLIENTES:
+16554664    16557552    
+
+FWK6327     El doble
+1           Fiodor Dostoyevski
+DNI CLIENTES:
+16572056    
+
+HCT8192     Diario
+1           Ana FranK
+DNI CLIENTES:
+16573080    
+
+WPU8819     Tristam Shandy
+1           Laurence Sterne
+DNI CLIENTES:
+16549024    16563000    16571304    16575224    
+
+MVU0233     La conspiracioni
+1           Dan Brown
+DNI CLIENTES:
+16585064    
+
+HGQ0131     Odisea
+1           Homero
+DNI CLIENTES:
+16547344    
+
+XIU2628     Cabo Trafalgar
+1           Arturo Perez-Reverte
+DNI CLIENTES:
+16547264    16558240    16571160    
+
+JBR9372     El maestro de esgrima
+1           Arturo Perez-Reverte
+DNI CLIENTES:
+16558432    16582840    
+
+SBU9053     Tierra arrasada
+1           Alfredo Gonzalez Ruibal
+DNI CLIENTES:
+16562312    
+
+QRH6838     Las cronicas de Narnia
+1           C. S. Lewis
+DNI CLIENTES:
+16559696    16563944    16570296    
+
+SFZ1256     La Iliada
+1           Homero
+DNI CLIENTES:
+16552616    16561624    
+
+PVS2464     Sapiens
+0           Yuval Noah Harari
+DNI CLIENTES:
+
+
+ZJM1292     El suenio del celta
+0           Mario Vargas Llosa
+DNI CLIENTES:
+
+
+CRA4157     El forastero misterioso
+0           Mark Twain
+DNI CLIENTES:
+
+
+GPH1575     La gran aventura de los griegos
+0           Javier Negrete
+DNI CLIENTES:
+
+
+DDT0017     Viaje al fin de la noche
+0           Louis Ferdinand Celine
+DNI CLIENTES:
+
+
+HLB4548     Frankenstein o el moderno Prometeo
+0           Mary W. Shelley
+DNI CLIENTES:
+
+
+VHK9148     Historia y cronologia del mundo
+0           Isaac Asimov
+DNI CLIENTES:
+
+
+JTX5687     Veinte mil leguas de viaje submarino
+0           Julio Verne
+DNI CLIENTES:
+
+
+OMN0252     Los hermanos Karamazov
+0           Fiodor Dostoyevski
+DNI CLIENTES:
+
+
+MSW8176     Todo se desmorona
+0           Chinua Achebe
+DNI CLIENTES:
+
+
+TDY0497     La chica del tren
+0           Paula Hawkins
+DNI CLIENTES:
+
+
+PRD1648     Relato de un naufrago
+0           Gabriel Garcia Marquez
+DNI CLIENTES:
+
+
+SBF7018     El handicap de la vida
+0           Rudyard Kipling
+DNI CLIENTES:
+
+
+LVP3355     Las aventuras de Sherlock Holmes
+0           Arthur Conan Doyle
+DNI CLIENTES:
+
+
+CUV7849     Ficciones
+0           Jorge Luis Borges
+DNI CLIENTES:
+
+
+THT4126     Harry Potter y las reliquias de la muerte (Harry Potter 7)
+0           J. K. Rowling
+DNI CLIENTES:
+
+
+YJE2497     Progreso del peregrino
+0           John Bunyan
+DNI CLIENTES:
+
+
+QVU3526     Vidas intrepidas
+0           Julio Albi de la Cuesta
+DNI CLIENTES:
+
+
+VTY5195     Un asunto de honor
+0           Arturo Perez-Reverte
+DNI CLIENTES:
+
+
+FKK6524     Los renglones torcidos de Dios
+0           Torcuato Luca de Tena
+DNI CLIENTES:
+
+
+ISY5671     Harry Potter y la piedra filosofal (Harry Potter 1)
+0           J. K. Rowling
+DNI CLIENTES:
+
+
+NBE1339     Palmeras en la nieve
+0           Luz Gabas
+DNI CLIENTES:
+
+
+JHP0390     El conde de Montecristo
+0           Alexandre Dumas
+DNI CLIENTES:
+
+
+DND9446     Lo que el viento se llevo
+0           Margaret Mitchell
+DNI CLIENTES:
+
+
+PWX7633     La tia Julia y el escribidor
+0           Mario Vargas Llosa
+DNI CLIENTES:
+
+
+ZNF2241     El extranio caso del Dr. Jekyll y Mr. Hyde
+0           Robert Louis Stevenson
+DNI CLIENTES:
+
+
+SHF2360     Un dia de colera
+0           Arturo Perez-Reverte
+DNI CLIENTES:
+
+
+ETV5056     Moby Dick
+0           Herman Melville
+DNI CLIENTES:
+
+
+GXB5722     Cumbres borrascosas
+0           Emily Brontë
+DNI CLIENTES:
+
+
+MIK5358     La transformacion del mundo
+0           Jürgen Osterhammel
+DNI CLIENTES:
+
+
+EBE0042     Capitanes intrepidos
+0           Rudyard Kipling
+DNI CLIENTES:
+
+
+KCI5219     El Maestro y Margarita
+0           Mijail Bulgakov
+DNI CLIENTES:
+
+
+DXP8640     El retrato de Dorian Gray
+0           Oscar Wilde
+DNI CLIENTES:
+
+
+PGK5617     El Rey Lear
+0           William Shakespeare
+DNI CLIENTES:
+
+
+QFG6515     El libro de la selva
+0           Rudyard Kipling
+DNI CLIENTES:
+
+
+XMT1768     Los diarios de Adan y Eva
+0           Mark Twain
+DNI CLIENTES:
+
+
+MKB4184     Napoleon
+0           Alejandro Dumas
+DNI CLIENTES:
+
+
+EYV0597     Cuentos de la selva
+0           Horacio Quiroga
+DNI CLIENTES:
+
+
+ACM9578     Amadis de gaula
+0           Garci Rodriguez Montalvo
+DNI CLIENTES:
+
+
+USK1312     Un mundo sin fin
+0           Ken Follett
+DNI CLIENTES:
+
+
+VFO4193     La catedral del mar
+0           Ildefonso Falcones
+DNI CLIENTES:
+
+
+OWO8918     Origen
+0           Dan Brown
+DNI CLIENTES:
+
+
+EFD3949     La divina comedia
+0           Dante Alighieri
+DNI CLIENTES:
+
+
+FVV9246     Matar a un ruisenior
+0           Harper Lee
+DNI CLIENTES:
+
+
+BUB3833     Otelo
+0           William Shakespeare
+DNI CLIENTES:
+
+
+EUO8195     El jardin del Eden
+0           Hernest Hemingway
+DNI CLIENTES:
+
+
+MTZ2227     Hamlet
+0           William Shakespeare
+DNI CLIENTES:
+
+
+QMJ4188     Emma
+0           Jane Austen
+DNI CLIENTES:
+
+
+HXB2949     El medico
+0           Noah Gordon
+DNI CLIENTES:
+
+
+EFQ0297     Trampa 22
+0           Joseph Heller
+DNI CLIENTES:
+
+
+BRG4234     La telarania de Carlota
+0           E. B. White
+DNI CLIENTES:
+
+
+WYS2674     Secuestrado
+0           Robert Louis Stevenson
+DNI CLIENTES:
+
+
+IGT8523     Una columna de fuego
+0           Ken Follett
+DNI CLIENTES:
+
+
+LGB2311     Decameron
+0           Giovanni Boccaccio
+DNI CLIENTES:
+
+
+ION3794     Crepúsculo
+0           Stephenie Meyer
+DNI CLIENTES:
+
+
+HDA2333     Lituma en los Andes
+0           Mario Vargas Llosa
+DNI CLIENTES:
+
+
+BAP2859     El túnel
+0           Ernesto Sabato
+DNI CLIENTES:
+
+
+OUU5470     La carta esferica
+0           Arturo Perez-Reverte
+DNI CLIENTES:
+
+
+DEF7625     Las uvas de la ira
+0           John SteinbecK
+DNI CLIENTES:
+
+
+DTH6788     Los perros duros no bailan
+0           Arturo Perez-Reverte
+DNI CLIENTES:
+
+
+AZL1098     El extranjero
+0           Albert Camus
+DNI CLIENTES:
+
+
+UFK9792     El psicoanalista
+0           John Katzenbach
+DNI CLIENTES:
+
+
+XRL3393     Le dedico mi silencio
+0           Mario Vargas Llosa
+DNI CLIENTES:
+
+
+PWB4941     La montania magica
+0           Thomas Mann
+DNI CLIENTES:
+
+
+SXT1015     Mientras agonizo
+0           William Faulkner
+DNI CLIENTES:
+
+
+HLC2748     El senior de los anillos (Trilogia)
+0           J.R.R.Tolkien
+DNI CLIENTES:
+
+
+GJM4671     Origenes
+0           Lewis Dartnell
+DNI CLIENTES:
+
+
+VYK6352     Armas germenes y acero
+0           Jared Diamond
+DNI CLIENTES:
+
+
+JXC1015     Robinson Crusoe
+0           Daniel Defoe
+DNI CLIENTES:
+
+
+YXF2137     En agosto nos vemos
+0           Gabriel Garcia Marquez
+DNI CLIENTES:
+
+
+SIR3963     Memorias de una geisha
+0           Arthur Golden
+DNI CLIENTES:
+
+
+JOF6762     Ojos azules
+0           Arturo Perez-Reverte
+DNI CLIENTES:
+
+
+RRE8138     Trilogia de la Fundacion
+0           Isaac Asimov
+DNI CLIENTES:
+
+
+JKE9650     La metamorfosis
+0           Franz Kafka
+DNI CLIENTES:
+
+
+BZX4462     Culpa mia
+0           Mercedes Ron
+DNI CLIENTES:
+
+
